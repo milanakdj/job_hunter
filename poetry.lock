@@ -14,6 +14,19 @@ files = [
 ]
 
 [[package]]
+name = "async-timeout"
+version = "5.0.1"
+description = "Timeout context manager for asyncio programs"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+markers = "python_version == \"3.11\" and python_full_version < \"3.11.3\""
+files = [
+    {file = "async_timeout-5.0.1-py3-none-any.whl", hash = "sha256:39e3809566ff85354557ec2398b55e096c8364bacac9405a7a1fa429e77fe76c"},
+    {file = "async_timeout-5.0.1.tar.gz", hash = "sha256:d9321a7a3d5a6a5e187e824d2fa0793ce379a202935782d555d6e9d2735677d3"},
+]
+
+[[package]]
 name = "beautifulsoup4"
 version = "4.13.3"
 description = "Screen-scraping library"
@@ -217,6 +230,21 @@ jobspy2 = ">=0.0.5"
 pandas = ">=2.0.0"
 
 [[package]]
+name = "jobspy"
+version = "0.29.0"
+description = "Use Redis as a job input/output coordinator."
+optional = false
+python-versions = "*"
+groups = ["main"]
+markers = "python_version == \"3.11\" or python_version >= \"3.12\""
+files = [
+    {file = "jobspy-0.29.0.tar.gz", hash = "sha256:09c5732b289c006c4ae9bf60c70110df78c07e7a063ef9a160b04cfa073e73e1"},
+]
+
+[package.dependencies]
+redis = ">=3.0.0"
+
+[[package]]
 name = "jobspy2"
 version = "0.0.5"
 description = "Scrape job posting from different job boards"
@@ -241,15 +269,15 @@ tls-client = ">=1.0.1"
 
 [[package]]
 name = "markdownify"
-version = "1.1.0"
+version = "0.13.1"
 description = "Convert HTML to markdown."
 optional = false
 python-versions = "*"
 groups = ["main"]
 markers = "python_version == \"3.11\" or python_version >= \"3.12\""
 files = [
-    {file = "markdownify-1.1.0-py3-none-any.whl", hash = "sha256:32a5a08e9af02c8a6528942224c91b933b4bd2c7d078f9012943776fc313eeef"},
-    {file = "markdownify-1.1.0.tar.gz", hash = "sha256:449c0bbbf1401c5112379619524f33b63490a8fa479456d41de9dc9e37560ebd"},
+    {file = "markdownify-0.13.1-py3-none-any.whl", hash = "sha256:1d181d43d20902bcc69d7be85b5316ed174d0dda72ff56e14ae4c95a4a407d22"},
+    {file = "markdownify-0.13.1.tar.gz", hash = "sha256:ab257f9e6bd4075118828a28c9d02f8a4bfeb7421f558834aa79b2dfeb32a098"},
 ]
 
 [package.dependencies]
@@ -543,6 +571,29 @@ files = [
 six = ">=1.5"
 
 [[package]]
+name = "python-jobspy"
+version = "1.1.79"
+description = "Job scraper for LinkedIn, Indeed, Glassdoor, ZipRecruiter & Bayt"
+optional = false
+python-versions = "<4.0,>=3.10"
+groups = ["main"]
+markers = "python_version == \"3.11\" or python_version >= \"3.12\""
+files = [
+    {file = "python_jobspy-1.1.79-py3-none-any.whl", hash = "sha256:8181c7a0534961ab62b0fb2fc14fd95999f84ddb586c8c77616d68c1dbd3ed66"},
+    {file = "python_jobspy-1.1.79.tar.gz", hash = "sha256:8b5ba2925337539783afdefa1ea365165f3ce3888fc3a3368b3d45dc72b214c5"},
+]
+
+[package.dependencies]
+beautifulsoup4 = ">=4.12.2,<5.0.0"
+markdownify = ">=0.13.1,<0.14.0"
+NUMPY = "1.26.3"
+pandas = ">=2.1.0,<3.0.0"
+pydantic = ">=2.3.0,<3.0.0"
+regex = ">=2024.4.28,<2025.0.0"
+requests = ">=2.31.0,<3.0.0"
+tls-client = ">=1.0.1,<2.0.0"
+
+[[package]]
 name = "pytz"
 version = "2025.2"
 description = "World timezone definitions, modern and historical"
@@ -554,6 +605,26 @@ files = [
     {file = "pytz-2025.2-py2.py3-none-any.whl", hash = "sha256:5ddf76296dd8c44c26eb8f4b6f35488f3ccbf6fbbd7adee0b7262d43f0ec2f00"},
     {file = "pytz-2025.2.tar.gz", hash = "sha256:360b9e3dbb49a209c21ad61809c7fb453643e048b38924c765813546746e81c3"},
 ]
+
+[[package]]
+name = "redis"
+version = "5.2.1"
+description = "Python client for Redis database and key-value store"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+markers = "python_version == \"3.11\" or python_version >= \"3.12\""
+files = [
+    {file = "redis-5.2.1-py3-none-any.whl", hash = "sha256:ee7e1056b9aea0f04c6c2ed59452947f34c4940ee025f5dd83e6a6418b6989e4"},
+    {file = "redis-5.2.1.tar.gz", hash = "sha256:16f2e22dff21d5125e8481515e386711a34cbec50f0e44413dd7d9c060a54e0f"},
+]
+
+[package.dependencies]
+async-timeout = {version = ">=4.0.3", markers = "python_full_version < \"3.11.3\""}
+
+[package.extras]
+hiredis = ["hiredis (>=3.0.0)"]
+ocsp = ["cryptography (>=36.0.1)", "pyopenssl (==23.2.1)", "requests (>=2.31.0)"]
 
 [[package]]
 name = "regex"
@@ -786,4 +857,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.1"
 python-versions = "<4.0,>=3.11"
-content-hash = "f85e17539d9068131e4a67c35f2ff53b7b9bffae228e414857e0b06c88965850"
+content-hash = "e8eb818b4873deae6084e68c8749a7b43bb79e381408a71e69a2ed22b50e5d60"
