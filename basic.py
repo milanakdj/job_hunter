@@ -7,9 +7,9 @@ from jobspy.model import Country
 
 jobs = scrape_jobs(
     # site_name=["indeed", "linkedin", "zip_recruiter", "glassdoor", "google", "bayt", "naukri"],
-    site_name=["linkedin"],
-    search_term="backend engineer",
-    # google_search_term="software engineer jobs near Kathmandu District, Nepal since yesterday",
+    site_name=["linkedin", "google"],
+    search_term="python developer",
+    google_search_term="python developer jobs near Kathmandu District, Nepal since yesterday",
     location="Nepal",
     results_wanted=20,
     hours_old=72,
@@ -20,4 +20,4 @@ jobs = scrape_jobs(
 )
 print(f"Found {len(jobs)} jobs")
 print(jobs.head())
-jobs.to_csv("data/jobs_backend_kathmandu.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
+jobs.to_csv("./backend_kathmandu_1.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False) # to_excel
