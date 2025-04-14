@@ -1,18 +1,1526 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4200569475","linkedin","https://www.linkedin.com/jobs/view/4200569475","","Full Stack Developer","F1Soft International Pvt. Ltd.","Lalitpur, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://np.linkedin.com/company/f1softgroup","","","","","","","","","","","",""
-"li-4199143016","linkedin","https://www.linkedin.com/jobs/view/4199143016","","Full Stack Shopify Developer","EB Pearls","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://au.linkedin.com/company/eb-pearls","","","","","","","","","","","",""
-"li-4196447698","linkedin","https://www.linkedin.com/jobs/view/4196447698","","Full Stack Developer, Trilogy (Remote) - $60,000/year USD","Crossover","Kosi Zone, Nepal","2025-04-04","","","","","","",True,"","","","","","","https://www.linkedin.com/company/crossover","","","","","","","","","","","",""
-"li-4199496496","linkedin","https://www.linkedin.com/jobs/view/4199496496","","Full Stack Product Engineer","ITsutra","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/itsutra","","","","","","","","","","","",""
-"li-4199152538","linkedin","https://www.linkedin.com/jobs/view/4199152538","","Full-Stack Laravel Developer","Omni IT World","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://np.linkedin.com/company/omniitworld","","","","","","","","","","","",""
-"li-4199154997","linkedin","https://www.linkedin.com/jobs/view/4199154997","","Senior Web Developer","Alaya","Lalitpur, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://np.linkedin.com/company/alaya-your-place","","","","","","","","","","","",""
-"li-4199479409","linkedin","https://www.linkedin.com/jobs/view/4199479409","","Full-Stack Engineer (AngularJS & Node.js)","SysQube Technology Pvt. Ltd.","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://np.linkedin.com/company/sysqube","","","","","","","","","","","",""
-"li-4199313545","linkedin","https://www.linkedin.com/jobs/view/4199313545","","Ruby on Rails Developer","ShiftCare","","2025-04-04","","","","","","",False,"","","","","","","https://au.linkedin.com/company/shiftcare","","","","","","","","","","","",""
-"li-4199305354","linkedin","https://www.linkedin.com/jobs/view/4199305354","","Senior Full Stack Developer","Leapfrog Technology, Inc.","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lftechnology","","","","","","","","","","","",""
-"li-4199141879","linkedin","https://www.linkedin.com/jobs/view/4199141879","","Senior Full Stack Developer","Leapfrog Technology, Inc.","Kathmandu, Bāgmatī, Nepal","2025-04-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lftechnology","","","","","","","","","","","",""
-"li-4198739266","linkedin","https://www.linkedin.com/jobs/view/4198739266","","QA Automation Engineer (Python)","SojoJob","Kathmandu, Bāgmatī, Nepal","2025-04-03","","","","","","",False,"","","","","","","https://np.linkedin.com/company/sojojob","","","","","","","","","","","",""
-"li-4201673783","linkedin","https://www.linkedin.com/jobs/view/4201673783","","Jr. ML Engineer","Vertex Special Technology","Lalitpur District, Nepal","","","","","","","",False,"","","","","","","https://np.linkedin.com/company/vertex-special-technology-nepal","","","","","","","","","","","",""
-"li-4200388038","linkedin","https://www.linkedin.com/jobs/view/4200388038","","Full Stack Engineer","eSewa Ltd.","Kathmandu, Bāgmatī, Nepal","","","","","","","",False,"","","","","","","https://np.linkedin.com/company/esewa","","","","","","","","","","","",""
-"li-4202748270","linkedin","https://www.linkedin.com/jobs/view/4202748270","","Senior PHP Developer","SojoJob","","","","","","","","",False,"","","","","","","https://np.linkedin.com/company/sojojob","","","","","","","","","","","",""
-"li-4160714532","linkedin","https://www.linkedin.com/jobs/view/4160714532","","Lead Full Stack Engineer","UpchaarNepal","Kathmandu, Bāgmatī, Nepal","","","","","","","",False,"","","","","","","https://np.linkedin.com/company/upchaarnepal","","","","","","","","","","","",""
-"li-4202377975","linkedin","https://www.linkedin.com/jobs/view/4202377975","","Full Stack .NET Developer","Plex Bit Infosystems Pvt. Ltd.","Kathmandu, Bāgmatī, Nepal","","","","","","","",False,"","","","","","","https://ie.linkedin.com/company/pb-infosystems-pvt-ltd","","","","","","","","","","","",""
-"li-4200392047","linkedin","https://www.linkedin.com/jobs/view/4200392047","","Senior Fullstack Dotnet Developer","SojoJob","Kathmandu, Bāgmatī, Nepal","","","","","","","",False,"","","","","","","https://np.linkedin.com/company/sojojob","","","","","","","","","","","",""
+"in-c851e88b428481b4","indeed","https://ca.indeed.com/viewjob?jk=c851e88b428481b4","http://ca.indeed.com/job/edi-asn-operations-specialist-retail-accounts-walmartcanadian-tire-c851e88b428481b4","EDI & ASN Operations Specialist – Retail Accounts (Walmart/Canadian Tire)","Blue Dog 3PL & Warehousing Inc.","Caledon, ON, CA","2025-04-13","fulltime","","","","","",False,"","","","","**Job Title: EDI \\& ASN Operations Specialist – Retail Accounts (Walmart/Canadian Tire)**  
+**Company:** Blue Dog 3PL \\& Warehousing Inc.  
+**Location:** 261 Abbotside Way. Unit 1\\&2 Caledon, ON
+
+**Job Type:** Full\\-Time \\| Permanent  
+**Salary Range:** $75,000 – $85,000 CAD (based on experience)
+
+**About Us:**
+
+Blue Dog 3PL \\& Warehousing Inc. is a trusted third\\-party logistics provider, offering tailored warehousing and fulfillment solutions to leading brands across Canada. We specialize in seamless operational execution, customer service, and system integration. We’re growing, and we’re looking for a dedicated expert to take full ownership of our EDI and ASN operations — especially for our high\\-profile retail accounts with Canadian Tire and Walmart Canada.
+
+**Position Overview:**
+
+We are seeking a skilled and detail\\-oriented **EDI \\& ASN Operations Specialist** to lead our Advanced Shipping Notification (ASN) and Electronic Data Interchange (EDI) operations. This position is critical in ensuring 100% compliance and timely delivery of ASN and EDI files to major retail partners. The ideal candidate has hands\\-on experience working with **Microsoft Dynamics 365**, **EDI platforms**, and direct ASN experience with **Canadian Tire** and **Walmart Canada**.
+
+This is not a junior or training role — we’re looking for someone who can step in, take full ownership, troubleshoot independently, and help us drive efficiency and compliance.
+
+**Key Responsibilities:**
+
+* Manage end\\-to\\-end ASN processing for Canadian Tire and Walmart Canada, ensuring 100% accuracy and on\\-time submission.
+* Work directly within **Microsoft Dynamics 365** to coordinate data flow between ERP, warehouse operations, and customer\\-facing documents.
+* Monitor and troubleshoot all inbound/outbound EDI transactions; resolve mapping, formatting, and connectivity issues proactively.
+* Ensure compliance with each retailer’s vendor guidelines and shipping protocols.
+* Liaise with internal IT and external service providers to maintain EDI infrastructure.
+* Develop and maintain documentation for EDI/ASN procedures and retailer\\-specific requirements.
+* Generate performance reports and KPIs related to ASN timeliness and compliance; suggest improvements where necessary.
+* Act as a key point of contact for our retail partners' logistics and IT compliance teams.
+
+**Required Qualifications:**
+
+* 3\\+ years of hands\\-on experience with **EDI and ASN processing**, specifically with **Canadian Tire and Walmart Canada**.
+* Proven experience shipping to both DCs and stores for these retailers.
+* Deep understanding of **retail compliance**, including routing guides, labeling, and document requirements.
+* Strong working knowledge of **ERP systems** (ideally **Microsoft Dynamics 365**).
+* Solid troubleshooting skills — both technical (IT/EDI) and operational (logistics/order flow).
+* Excellent attention to detail and ability to meet tight deadlines.
+* Experience generating and interpreting compliance or ASN performance reports.
+
+**Preferred Skills:**
+
+* Familiarity with EDI translators and mapping tools (e.g., SPS Commerce, TrueCommerce, OpenText, etc.).
+* Experience working in a **3PL environment**.
+* Basic scripting or technical skills (FTP, XML/EDI file structures, etc.) are a plus.
+
+**Why Join Blue Dog 3PL?**
+
+* Be part of a growing, agile logistics company where your contributions make a visible impact.
+* Work alongside a team that values precision, ownership, and continuous improvement.
+* Competitive compensation with room for growth.
+
+Job Types: Full\\-time, Permanent
+
+Pay: $75,000\\.00\\-$85,000\\.00 per year
+
+Benefits:
+
+* Extended health care
+
+Flexible language requirement:
+
+* French not required
+
+Schedule:
+
+* Monday to Friday
+* Weekends as needed
+
+Work Location: In person
+
+Application deadline: 2025\\-04\\-16  
+Expected start date: 2025\\-04\\-21","","https://ca.indeed.com/cmp/Blue-Dog-3pl-&-Warehousing-Inc.-2","","","","","","","","","","","",""
+"in-6b8a5b964dd12a86","indeed","https://ca.indeed.com/viewjob?jk=6b8a5b964dd12a86","https://careers.fedex.com/freight-handler-part-time/job/P25-197765-1?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_indeed_org&utm_subco=FXF","Freight Handler-Part Time","FedEx Freight","Mississauga, ON, CA","2025-04-12","parttime","","","","","",False,"","","","","**GENERAL PURPOSE**
+Responsible for transporting freight across dock area to/from trailers for loading to trailers. As a Freight Handler, flexibility regarding shifts will be required.
+**ESSENTIAL JOB DUTIES/RESPONSIBILITIES**
+1\\. Perform freight handling using appropriate motorized and manual equipment, including, but not limited to forklift, pallet jack, hand truck
+2\\. Comply with all applicable laws/regulations, as well as company policies/procedures
+3\\. Verify documentation matches freight description, including, but not limited to type, weight, and hazardous materials, using current electronic and manual system
+4\\. Secure freight inside trailers using appropriate tools and supplies, including, but not limited to pallets, straps, rope
+5\\. Recoup/repair damaged freight when necessary
+6\\. Verify and complete required documentation and reports
+7\\. Assist customers with freight and freight documentation as needed
+8\\. Perform other duties as required
+**BASIC QUALIFICATIONS*** High school diploma/equivalent or 2 years dock experience
+* Forklift operation experience, required
+* Valid forklift certificate preferred
+* Ability to lift/carry hand freight of varying weights several times a week, to lift dock plates weighing approximately 100 pounds, and to open trailer doors requiring approximately 75 pounds of lift force, up to several times per day or more
+* Ability to bend, twist, squat, pushing/pulling freight throughout shift
+
+
+**OTHER QUALIFICATIONS*** Previous dock/warehouse experience preferred
+* Able to count and perform basic math, with or without a calculator
+* Basic written and verbal communication skills
+* Able to follow instructions and complete required training
+* Able to work alone or as a team member
+* Dock environment; exposure to varied weather conditions, exhaust, fumes, dust, noise
+
+
+
+DISCLAIMER
+This job description is general in nature and is not designed to contain or to be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to the job.  
+
+  
+
+**Preferred Qualifications:** Monday\\-Friday, 06:00\\-10:00
+
+
+**Pay Transparency:**
+
+**Pay:**
+
+**Additional Details:**","","https://ca.indeed.com/cmp/FedEx-Freight","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/08cac5fec06a7225f0a5d4cf37e5bb64","https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_indeed_ebh&utm_subco=FXF","Memphis, TN","10,000+","$1B to $5B (USD)","FedEx Freight is a leading provider of less-than-truckload freight service. Our team members handle about 100,000 shipments a day and are dedicated to delivering the ultimate customer experience.","","","","","",""
+"in-33f20b6391391f9d","indeed","https://ca.indeed.com/viewjob?jk=33f20b6391391f9d","http://ca.indeed.com/job/moverdriver-33f20b6391391f9d","Mover/Driver","","Hamilton, ON, CA","2025-04-12","parttime, fulltime","","","","","",False,"","","","","**Overview**  
+We are seeking a dedicated and reliable Mover/Driver to join our team. In this role, you will be responsible for transporting goods and assisting with moving services while ensuring exceptional customer service. The ideal candidate will possess strong communication skills and the ability to handle heavy lifting, making them an essential part of our operations.
+
+**Duties**
+
+* Safely operate commercial vehicles to transport goods to various locations.
+* Assist customers with packing, loading, and unloading their belongings during moves.
+* Handle heavy lifting and ensure items are securely loaded and unloaded from vehicles.
+* Maintain a clean and organized work environment in both the warehouse and vehicle.
+* Communicate effectively with customers to address any questions or concerns during the moving process.
+* Collaborate with team members to ensure efficient operations and timely deliveries.
+* Perform routine vehicle inspections and maintenance checks to ensure safety compliance.
+* Utilize forklift equipment when necessary for loading and unloading materials in the warehouse.
+
+**Qualifications**
+
+* Previous experience in moving or warehouse operations is preferred.
+* Valid commercial driving license (CDL) is a plus but not mandatory; willingness to obtain one is required.
+* Strong customer service skills with the ability to communicate clearly and effectively.
+* Experience operating forklifts is desirable; certification may be required.
+* Ability to perform heavy lifting (up to 50 pounds) as part of daily responsibilities.
+* Must be reliable, punctual, and able to work flexible hours as needed.
+* A positive attitude and a willingness to learn new skills in a fast\\-paced environment.
+
+Join our team as a Mover/Driver, where your contributions will help us provide top\\-notch moving services while ensuring customer satisfaction!
+
+Job Types: Full\\-time, Part\\-time, Permanent
+
+Pay: $18\\.00\\-$22\\.00 per hour
+
+Expected hours: 15 – 40 per week
+
+Additional pay:
+
+* Bonus pay
+* Tips
+
+Flexible language requirement:
+
+* French not required
+
+Language:
+
+* English (preferred)
+
+Work Location: In person","","https://ca.indeed.comNone","","","","","","","","","","","",""
+"in-f9d8d54d85e77786","indeed","https://ca.indeed.com/viewjob?jk=f9d8d54d85e77786","http://ca.indeed.com/job/warehouse-labourer-f9d8d54d85e77786","Warehouse Labourer","General Seed Company","Alberton, ON, CA","2025-04-12","fulltime","","","","","",False,"","","","","**Warehouse Mixing Labourer**
+
+Passion is the seed to success and, at General Seed Company, we pride ourselves in a culture that recognizes hard work, dedication, and perseverance. We are currently looking for a Warehouse Mixing Labourer to be a part of our growing team.
+
+Established in 1965, General Seed specializes in Forage, Turf, Cover Crops, and Silage Corn. Serving Ontario, Quebec and the Maritimes, General Seed has seen massive growth and expansion over the past 20 years.
+
+Duties:  
+\\- **\\*Work is continuous, manual labour.\\***  
+\\- Perform various duties within the warehouse, including but not limited to: receiving, stocking, order picking, and shipping  
+\\- Operate warehouse equipment such as forklifts and pallet jacks to move and organize inventory  
+\\- Utilize warehouse management system to track and locate products  
+\\- Build and assemble orders accurately and efficiently  
+\\- Conduct inventory counts and assist with cycle counting as needed
+
+Requirements:  
+\\- Ability to perform repeated heavy lifting, up to 50lbs  
+\\- Mechanical knowledge and aptitude for operating warehouse equipment  
+\\- Experience in warehouse distribution preferred  
+\\- Strong attention to detail and accuracy in order picking and inventory management  
+\\- Strong organizational skills with the ability to multitask and prioritize tasks effectively  
+\\- Excellent verbal and written communication skills  
+\\- Familiarity with horticulture/farming is preferred
+
+This is an exciting opportunity for an organized and hardworking individual to join our team as a Warehouse Mixing Labourer. If you are a motivated self\\-starter with excellent communication skills and the ability to work well in a fast\\-paced environment, we would love to hear from you.
+
+Please submit your resume highlighting your relevant experience.
+
+Schedule:
+
+* Monday to Friday, 8am\\-5pm
+* Weekends as needed
+
+Job Types: Full\\-time, Permanent
+
+Pay: $25\\.00\\-$28\\.00 per hour
+
+Experience:
+
+* warehouse: 1 year (preferred)
+
+Work Location: In person","","https://ca.indeed.com/cmp/General-Seed-Company","","","","","","","","","","","",""
+"in-d8d194cc663c1406","indeed","https://ca.indeed.com/viewjob?jk=d8d194cc663c1406","http://ca.indeed.com/job/stage-assistant-d8d194cc663c1406","Stage Assistant","Fab Places & Neat Spaces","Toronto, ON, CA","2025-04-12","parttime","","","","","",False,"","","","","Busy staging business looking for highly experienced stager to assist in staging jobs around the GTA. Looking for stagers who have a great eye for home decorating, detailed, hard\\-working, works quickly, full of energy, self\\-starter, people person \\& can make decisions independently. Must be able to lift boxes, bags of bedding, rugs, lamps and small furniture pieces. Must be able to drive to our warehouse location (Keele \\& Steeles in the area in Toronto) and then to the location of the house being staged. We stage all over GTA. We will certainly carpool when possible! Position includes destaging of properties, warehouse organization and any other duties as required. Please only apply if you have at least 2 years of experience and are serious and eager about working. A typical work day is 9:00\\-4:00, however, depending on the job this could vary slightly. This job is a sub\\-contractor position. If the business is busy, you will be busy. Previous work experience is required and formal training/schooling is preferred. The business is growing at a rapid rate and this can lead to the position of lead stager.
+
+Please respond with a reason you are applying as well as why you think you might be a great candidate.
+
+Job Types: Part\\-time, Freelance
+
+Pay: $20\\.00\\-$25\\.00 per hour
+
+Flexible language requirement:
+
+* French not required
+
+Schedule:
+
+* Monday to Friday
+
+Experience:
+
+* Home Staging: 2 years (required)
+
+Language:
+
+* English (required)
+
+Work Location: In person","","https://ca.indeed.com/cmp/Fab-Places-&-Neat-Spaces","","","","","","","","","","","",""
+"in-c9b184262a7e6508","indeed","https://ca.indeed.com/viewjob?jk=c9b184262a7e6508","http://ca.indeed.com/job/warehouse-and-logistics-associate-c9b184262a7e6508","Warehouse and Logistics Associate","SpectraLab Scientific Inc.","Markham, ON, CA","2025-04-12","fulltime","","","","","",True,"","","","","**Company Summary**  
+Spectralab Scientific started operating in Canada in 2003\\. We have grown to become a leading global provider of refurbished analytical instruments, specializing in chromatography (HPLC\\|UHPLC\\|GC), mass spectrometry (LCMS\\|GCMS\\|LC\\-MS/MS), and elemental analysis (ICP\\-OES\\|ICP\\-MS\\|AAS) equipment. Our enhanced services include maintenance and/or service contracts, repair services, validation services, equipment parts, and a variety of on\\-site tailor\\-made training programs.
+
+**Job Summary**  
+We are looking for a Transportation and Logistics Associate. The ability to freely enter and exit the USA is required. We are particularly interested in candidates with experience driving vehicles up to 11,000 kg in gross vehicle weight.
+
+**Job Type:** Permanent, Full time (9am\\- 5pm EST) Monday to Friday  
+**Languages:** English  
+**Education:** High\\-School or equivalent
+
+**Responsibilities:**
+
+* Drive truck up to 11,000 Kg in gross vehicle weight to transport inventory between Canadian and USA warehouse.
+* Operate forklift and other equipment for moving large heavy loads.
+* Co\\-ordinate activities with other work units and departments
+* Monitor, track, and cross\\-dock shipments to support logistics manager as required.
+* Organise, pick, and pack shipments to support warehouse manager as required.
+
+**Skills/ Requirements:**
+
+* Valid full G driver’s license with clean driving record.
+* Ability to freely travel between Canada and the United States.
+* 1\\-2 years relevant logics experience.
+* Proficient in Microsoft Office suite of programs
+* Strong spatial awareness, critical thinking, and problem solving skills.
+* Ability to operate effectively in a fast\\-paced environment and adhere to strict deadlines
+* Ability to speak more than one language an asset.
+
+This is **NOT** a remote position.  
+Candidates must be willing to work on\\-site in Markham, ON, be eligible to work in Canada, and freely travel between Canada and USA for consideration.
+
+Job Type: Full\\-time
+
+Pay: Up to $20\\.00 per hour
+
+Benefits:
+
+* Casual dress
+* Dental care
+* Extended health care
+* Life insurance
+* On\\-site parking
+* Vision care
+
+Schedule:
+
+* Monday to Friday
+
+Application question(s):
+
+* Are you able to freely travel between Canada and the USA?
+
+Ability to Commute:
+
+* Markham, ON L3R 3V6 (preferred)
+
+Work Location: In person","","https://ca.indeed.com/cmp/Spectralab-Scientific-Inc.","","https://www.spectralabsci.com","Markham","11 to 50","$1M to $5M (USD)","","","","","","",""
+"in-55ac321a2f73cd98","indeed","https://ca.indeed.com/viewjob?jk=55ac321a2f73cd98","https://pivotalhr.fitzii.com/job/92890?s=in","Manufacturing Warehouse Manager","Belvika Trade & Packaging","Mississauga, ON, CA","2025-04-11","","","","","","",False,"","","","","**Belvika Trade \\& Packaging Ltd.** is a leading one\\-stop contract packaging company, specializing in precision packing of dry foods, chocolate and confectionary products from multiple facilities totaling more than 500,000 ft2\\. Belvika has grown to be one of the largest co\\-packers of chocolate, confectionary and snack products in Canada. Belvika uses its extensive experience in managing both manual processes and automated equipment to handle primary and secondary packaging of products for some of the world’s best known confectionary brands.
+
+  
+
+
+
+Belvika is an equal opportunity employer, offering competitive wages, a bonus plan, benefit plan, ongoing training, and an interesting and challenging work environment. We will provide the tools and training that you require to excel at your role together with access to Senior Management to provide additional support and guidance. We welcome and encourage applications from people with disabilities. Accommodation is available on request for candidates taking part in all aspects of the selection process.
+
+  
+
+
+
+Belvika is currently seeking a **Warehouse Manager**for its **Export** facility, located in Mississauga. Reporting to the Operations Site Manager or designate. The Warehouse Manager is responsible for overseeing all warehouse and distribution operations, including shipping \\& receiving, workplace safety and supporting inventory management. The role ensures efficient storage, movement, and distribution of materials and finished goods while maintaining compliance with all safety regulations, labour laws, and industry standards. The Warehouse Manager leads a team, optimizes warehouse processes, and collaborates with production, planning, sales, and logistics to support business goals.
+
+
+**Key Responsibilities:**
+
+
+**Warehouse \\& Distribution Operations Management:**
+
+
+* Oversee receiving, storing, picking, and shipping of materials and products to ensure FEFO
+* Ensure warehouse layout and storage systems are optimized for space utilization and efficiency
+* Support inventory control procedures to prevent loss, damage, and discrepancies.
+* Ensure on\\-time order fulfillment by coordinating with production, planning, logistics.
+* Manage the flow from receiving to production and finished goods movement to distribution.
+* Develop and improve warehouse management systems, operating procedures, and work specifications, and supervise their implementation.
+* Ensure all documentation related to warehouse and distribution is accurately recorded and completed.
+
+  
+
+  
+
+**Team Leadership \\& Workforce Management:**
+
+
+* Recruit, train, and manage warehouse staff, supervisors, and forklift operators.
+* Monitor team performance, set KPIs, and provide coaching to improve productivity.
+* Develop and enforce warehouse standard operating procedures (SOPs).
+* Conduct performance evaluations, provide coaching and work direction, and determine training and development needs.
+* Handle recruitment, hiring, disciplinary measures, and terminations in coordination with HR.
+
+  
+
+
+**KPI Reporting \\& Logistics Coordination:**
+
+
+* Ensure strong inventory and shipping accuracy through regular audits and reconciliations.
+* With support from the inventory team, monitor inventory levels, and ensure efficient warehouse layout for optimal space utilization.
+* Prepare shipments and oversee the efficient organization, labeling, and shipping of goods.
+* Work closely with the Site Manager to ensure warehouse and distribution operations align with company budgets and objectives.
+* Define and implement service standards for warehouse service providers (3PLs) under their responsibility.
+* Ensure all daily, weekly, and monthly KPI reports are completed and reviewed in accordance with company policies.
+
+  
+
+  
+
+**Health, Safety, and Compliance:**
+
+
+* Ensure compliance with Canadian health \\& safety regulations (OHSA, WHMIS, WSIB, etc.).
+* Conduct safety audits and training programs to maintain a safe work environment.
+* Maintain a clean, organized, and safe warehouse and distribution environment in accordance with company standards and safety regulations.
+
+  
+
+  
+
+**Process Optimization \\& Cost Control:**
+
+
+* Identify and implement continuous improvement initiatives (Lean, 5S, Kaizen, etc.).
+* Analyze warehouse efficiency metrics and cost structures to optimize operations.
+* Work with logistics providers to manage transportation costs and shipping efficiency.
+* Develop and implement a continuous improvement program for warehouse and distribution services to enhance cost efficiency and operational effectiveness.
+
+  
+
+**Qualifications:**
+
+
+* Minimum of 5 years in logistics, supply chain management, or distribution center operations.
+* 3\\-5 years in a leadership role within warehouse or distribution operations.
+* Strong knowledge of inventory management, logistics, and warehouse best practices.
+* Experience with ERP/WMS systems (SAP, Oracle, Microsoft Dynamics, etc.).
+* Experience with Nulogy software is an asset.
+
+ **Education:**
+* Bachelor’s degree or Diploma in Business, Supply Chain, Industrial Engineering, or a related field (preferred).
+
+  
+
+
+**Skills \\& Competencies:**
+
+
+* Strong leadership, coaching, and team\\-building abilities.
+* Excellent communication and interpersonal skills.
+* Problem\\-solving and analytical mindset.
+* Knowledge of safety and regulatory standards in warehouse operations.
+* Commitment to continuous improvement and operational excellence.
+* Proficiency in Microsoft Office (Excel, Word, Outlook) for reporting and analysis.
+* Ability to manage multiple priorities in a fast\\-paced manufacturing environment.
+
+  
+
+
+**Preferred Certifications (Optional but Beneficial):**
+
+
+* Certified Supply Chain Professional (CSCP) – APICS
+* Certified Logistics Professional (CCLP) – CITT
+* Forklift \\& WHMIS Certification
+
+
+**Work Environment \\& Physical Requirements:**
+
+
+* Manufacturing warehouse environment with exposure to forklifts, heavy equipment, and variable temperatures.
+* Regular standing, walking, lifting (up to 50 lbs), and operating warehouse equipment.
+* Ability to work flexible hours (overtime, weekends, or shifts as needed).
+* Warehouse\\-based 60%; office environment 40%.
+* Some travel across multiple sites in the Southern Ontario region may be required.
+* Flexibility in schedule depending on production and distribution demands, including weekend work as required.
+
+
+We thank all candidates for their interest; however only those most qualified will be contacted.","","https://ca.indeed.com/cmp/Belvika-Trade-&-Packaging","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a6a5a26885a99f2dceb7a9f9df7a8577","","","","","","","","","","",""
+"in-ae173dad27d6283f","indeed","https://ca.indeed.com/viewjob?jk=ae173dad27d6283f","https://career.sonepar.com/job/Mississauga-Warehouse-Associate-ON-L4W-1G7/1192418501/","Warehouse Associate","Aztec Electrical Supply","Mississauga, ON, CA","2025-04-11","","","","","","",False,"","","","","Warehouse Associate
+
+
+**Req ID:** 37138
+**Date:** Apr 11, 2025
+**Location:**Mississauga, ON, CA, L4W 1G7
+**Brand:** Aztec Electrical Supply
+**About Us:**
+Aztec Electrical Supply is the most dynamic and fastest growing electrical supplier in Canada; opened in 2003 with the goal of filling the service gaps within the electrical distribution industry. We have grown to four branches with 100 employees because of the kind of care we provide to each one of our customers.  
+
+
+We are a proud member of the Sonepar Group, the world's largest privately\\-held electrical distributor. The Sonepar Group is present in more than 40 countries with over 45,000 employees. In Canada, we are represented by 9 locally managed electrical and industrial distributors and have over 110 locations with coverage in 8 provinces.  
+
+
+To explore and learn more about Sonepar opportunities, please visit www.career.sonepar.com  
+
+
+***What’s In It For You?***
+* You will be joining a market leader with over 40 years of experience to help you elevate your potential.
+* You will be working for the world's \\#1 privately held business to business distributor of electrical products and related solutions.
+* A chance to get involved in the forever growing electrical industry.
+* We house the largest inventory to better service our customers and deliver on sales commitments.
+* An opportunity for career development across many business departments within our organization.
+
+  
+
+
+**Being a part of Aztec is:**
+* Being part of a team
+* Seeking self improvement, advancement, and knowledge
+* Supporting your fellow team members
+* Bringing your best energy to your customers each day
+
+
+**Responsibilities**:
+* Accurately picking electrical products
+
+
+* Packing and shipping products correctly to customers
+
+
+* Interacting with coworkers and customers in the warehouse and assisting them with finding product as required
+
+
+* Maintaining warehouse inventory, order and cleanliness
+
+  
+
+
+**Skills**:
+* Ability to read, write, and communicate effectively
+
+
+* Attention to detail
+
+
+* Ability to regularly lift over fifty pounds
+
+
+* Comfort with being on your feet for long periods of time
+
+
+* Forklift license is an asset
+
+
+**Benefits \\& Perks**
+* We offer a competitive salary, plus a full set of benefits, including:
+* Flexible benefits program allowing you to choose from options that best fit you and your dependents’ needs. Benefit options include: Medical, Dental, Vision, Health Spending Account \\& RRSP matching.
+* Employee Assistance Program, Tuition Reimbursement, Employee Discounts and a career path.
+* Regardless of your benefits program, you will receive company paid Life Insurance, and employee paid disability.
+
+  
+
+
+**More information on Aztec:**  
+
+Facebook: https://www.facebook.com/aztecelectricalsupply1  
+
+Website: https://www.aztecsupply.com/  
+
+Twitter: https://twitter.com/aztecelectrical  
+
+Instagram: https://www.instagram.com/aztecelectrical/  
+
+LinkedIn: https://www.linkedin.com/company/aztec\\-electric\\-supply/  
+
+  
+
+Sonepar places the planet and diversity and inclusion at the core of its vision driving our business ethos.  
+
+  
+
+Today, Sonepar is the leading distributor of energy\\-efficient products, pioneering the energy transition and making sustainability a priority. At Sonepar, we firmly believe that every action is crucial in safeguarding the environment, driving our commitment to a more sustainable future. We have accelerated our own transition to efficient generation and use of electrical energy across our business and champion the innovation of sustainable solutions in the market.  
+
+
+This commitment is tangible in our detailed Global CSR report, to learn more please visit https://www.sonepar.com/en/commitments/sustainability.  
+
+
+Sonepar has been recognized as a Diversity Leader by the Financial Times’ 2024 Diversity Leaders ranking and was awarded GEEIS Certification in 2022\\. We are proud to be an equal opportunity employer, welcoming submissions from all candidates. We believe in creating a work environment where everyone can feel safe, use their voice, and know that they belong. Diversity and Inclusion (D\\&I) is a central focus of our global, strategic impact plan. We value diversity and inclusion in the workplace because it allows us to better meet the needs of the communities we serve. It helps us foster greater creativity, breadth of experience, and it’s essential to our success as an organization. All qualified individuals, regardless of race, ethnic or national origin, colour, religion, sex, sexual orientation, age, marital status, neurodiversity, disability status, gender identity, veteran status or any other aspect which makes them unique are encouraged to apply.  
+
+
+For more information about our Inclusion and Diversity initiatives, please visit https://www.sonepar.com/en/commitments/diversity\\-and\\-inclusion.  
+
+
+Sonepar is an equal opportunity employer and welcomes submissions from all candidates. Accommodation is available to all applicants upon request. If selected for an interview, please advise the Sonepar representative of your accommodation needs at that time. We will work with all applicants to accommodate their accessibility needs.  
+
+
+***Next steps:***  
+
+*We are interested in knowing more about you. Start an exciting new career and enjoy a number of benefits by applying online. While we are very grateful for your interest in joining the team, only those selected for an interview will be contacted.*","","https://ca.indeed.com/cmp/Aztec-Electrical-Supply","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6248a7ec506a9aee5783aff94b4b6a5d","https://www.aztecsupply.com","Concord","11 to 50","$5M to $25M (USD)","","","","","","",""
+"in-591f595bb30978a9","indeed","https://ca.indeed.com/viewjob?jk=591f595bb30978a9","https://teamwork-ovg.icims.com/jobs/22692/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Warehouse Supervisor | Seasonal Part-Time | Rogers Stadium","Oak View Group","Toronto, ON, CA","2025-04-11","parttime","","","","","",False,"","","","","Oak View Group:
+
+Oak View Group is the global leader in venue development, management, and premium hospitality services for the live event industry. Offering an unmatched, 360\\-degree solution set for a collection of world\\-class owned venues and a client roster that includes the most influential, highest attended arenas, convention centers, music festivals, performing arts centers, and cultural institutions on the planet.
+Overview:
+
+The **Warehouse Supervisor** is responsible for overseeing all warehouse operations including product ordering, receiving, distribution, inventory control, equipment maintenance, and staff supervision. This role ensures all event\\-related storage and stocking needs are met efficiently while maintaining sanitation standards and accurate records. Due to the nature of this venue, the successful candidate must be comfortable working outdoors.  
+
+This role will pay an hourly rate of $35\\.00 CAD. **Benefits for Part\\-Time roles: Pension Matching.** **This is a seasonal role from approximately June 1st 2025\\- October 15th 2025\\.** **EVERGREEN ROLE: Applications are accepted on an ongoing basis; there is no application deadline.**  
+
+
+Responsibilities:
+* Manage the ordering, receiving, distribution, and tracking of all venue products
+* Ensure purchase orders, requisitions, and inventory records are accurate and properly maintained
+* Maintain cleanliness and organization in all warehouse and storage areas
+* Supervise part\\-time warehouse staff; oversee event lay\\-ins, requisitions, post\\-event breakdowns, and returns
+* Inspect incoming shipments for accuracy and quality; ensure proper labeling, dating, and storage of items
+* Maintain appropriate stock levels for each event; monitor rotation and product integrity
+* Oversee product transfers between departments and complete associated documentation
+* Perform and oversee maintenance and cleaning of all warehouse and utility equipment
+* Ensure all equipment is stored, operational, and located per event manifests
+* Conduct end\\-of\\-day walkthroughs to confirm sanitation and operational readiness
+* Act as opening or closing manager on duty for warehouse operations
+* Support Premium Services and Concessions event operations as needed
+* Evaluate and document warehouse employee performance, including reviews and disciplinary actions
+
+
+Qualifications:
+* Right to work legally in Canada
+* Minimum 2 years warehouse / distribution experience
+* Minimum 2 years of supervisory experience
+* Forklift certification
+* Ability to communicate effectively with all stakeholders including co\\-workers, customers and management which focuses on generating a positive, enthusiastic and cooperative work environment.
+* Ability to make sound business/operations decisions
+* Ability to speak, read, and write in English
+* Solid working knowledge of computer applications: Microsoft office, POS systems, timekeeping system
+* Ability to work well in a team\\-oriented, fast\\-paced, event\\-driven environment
+* Possess a thorough working knowledge of all existing concessions locations: geographical location, equipment, evacuation procedures, adjacent employee and guest areas, and facility access
+* Possess thorough working knowledge of all applicable sanitation requirements, food preparation guidelines, alcohol service policies, safety standards, etc. pertaining to venue concession operations
+* Ability to calculate basic math functions (addition, subtraction, multiplication, division, percentages) as they relate to POS cash/credit transactions, cash reconciliation and product inventory
+* Ability to handle cash accurately and responsibly
+
+
+Strengthened by our Differences. United to Make a Difference:
+
+At OVG, we understand that to continue positively disrupting the sports and live entertainment industry, we need a diverse team to help us do it. We also believe that inclusivity drives innovation, strengthens our **people**, improves our **service**, and raises our **excellence**. Our success is rooted in creating environments that reflect and celebrate the diverse communities in which we operate and serve, and this is the reason we are committed to amplifying voices from all different backgrounds.
+Equal Opportunity Employer:
+
+Oak View Group is committed to equal employment opportunity. We will not discriminate against employees or applicants for employment on any legally recognized basis (“protected class”) including, but not limited to veteran status, uniform service member status, race, color, religion, sex, national origin, age, physical or mental disability, genetic information or any other protected class under federal, state, or local law.","","https://ca.indeed.com/cmp/Oak-View-Group","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/808bc6ebf4dcddcdb2c8c94bb9569460","http://www.oakviewgroup.com","5050 S Syracuse St
+Greenwood Village, CO 80237","5,001 to 10,000","$1B to $5B (USD)","We are here to be a positive disruption to business as usual in the sports, live entertainment, and hospitality industries.","","","","","",""
+"in-2cd6dc4b5d103dc7","indeed","https://ca.indeed.com/viewjob?jk=2cd6dc4b5d103dc7","https://careers-ovgcan.icims.com/jobs/22692/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Warehouse Supervisor | Seasonal Part-Time | Rogers Stadium","Oak View Group","Toronto, ON, CA","2025-04-11","parttime","","","","","",False,"","","","","Oak View Group:
+
+Oak View Group is the global leader in venue development, management, and premium hospitality services for the live event industry. Offering an unmatched, 360\\-degree solution set for a collection of world\\-class owned venues and a client roster that includes the most influential, highest attended arenas, convention centers, music festivals, performing arts centers, and cultural institutions on the planet.
+Position Summary:
+
+The **Warehouse Supervisor** is responsible for overseeing all warehouse operations including product ordering, receiving, distribution, inventory control, equipment maintenance, and staff supervision. This role ensures all event\\-related storage and stocking needs are met efficiently while maintaining sanitation standards and accurate records. Due to the nature of this venue, the successful candidate must be comfortable working outdoors.  
+
+This role will pay an hourly rate of $35\\.00 CAD. **Benefits for Part\\-Time roles: Pension Matching.** **This is a seasonal role from approximately June 1st 2025\\- October 15th 2025\\.** **EVERGREEN ROLE: Applications are accepted on an ongoing basis; there is no application deadline.**  
+
+
+About the Venue:
+
+Welcome to **Rogers Stadium**, a new 50,000 capacity outdoor venue in North Toronto. Oak View Group serves the stadium as its main Food \\& Beverage partner during a brief but intense season of 12\\-15 concerts, running from June to September. This is a perfect opportunity for someone looking for an extra gig, part\\-time work, and a fun work environment.
+Responsibilities:
+* Manage the ordering, receiving, distribution, and tracking of all venue products
+* Ensure purchase orders, requisitions, and inventory records are accurate and properly maintained
+* Maintain cleanliness and organization in all warehouse and storage areas
+* Supervise part\\-time warehouse staff; oversee event lay\\-ins, requisitions, post\\-event breakdowns, and returns
+* Inspect incoming shipments for accuracy and quality; ensure proper labeling, dating, and storage of items
+* Maintain appropriate stock levels for each event; monitor rotation and product integrity
+* Oversee product transfers between departments and complete associated documentation
+* Perform and oversee maintenance and cleaning of all warehouse and utility equipment
+* Ensure all equipment is stored, operational, and located per event manifests
+* Conduct end\\-of\\-day walkthroughs to confirm sanitation and operational readiness
+* Act as opening or closing manager on duty for warehouse operations
+* Support Premium Services and Concessions event operations as needed
+* Evaluate and document warehouse employee performance, including reviews and disciplinary actions
+
+
+Qualifications:
+* Right to work legally in Canada
+* Minimum 2 years warehouse / distribution experience
+* Minimum 2 years of supervisory experience
+* Forklift certification
+* Ability to communicate effectively with all stakeholders including co\\-workers, customers and management which focuses on generating a positive, enthusiastic and cooperative work environment.
+* Ability to make sound business/operations decisions
+* Ability to speak, read, and write in English
+* Solid working knowledge of computer applications: Microsoft office, POS systems, timekeeping system
+* Ability to work well in a team\\-oriented, fast\\-paced, event\\-driven environment
+* Possess a thorough working knowledge of all existing concessions locations: geographical location, equipment, evacuation procedures, adjacent employee and guest areas, and facility access
+* Possess thorough working knowledge of all applicable sanitation requirements, food preparation guidelines, alcohol service policies, safety standards, etc. pertaining to venue concession operations
+* Ability to calculate basic math functions (addition, subtraction, multiplication, division, percentages) as they relate to POS cash/credit transactions, cash reconciliation and product inventory
+* Ability to handle cash accurately and responsibly
+
+
+Strengthened by our Differences. United to Make a Difference:
+
+At OVG, we understand that to continue positively disrupting the sports and live entertainment industry, we need a diverse team to help us do it. We also believe that inclusivity drives innovation, strengthens our **people**, improves our **service**, and raises our **excellence**. Our success is rooted in creating environments that reflect and celebrate the diverse communities in which we operate and serve, and this is the reason we are committed to amplifying voices from all different backgrounds.","","https://ca.indeed.com/cmp/Oak-View-Group","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/808bc6ebf4dcddcdb2c8c94bb9569460","http://www.oakviewgroup.com","5050 S Syracuse St
+Greenwood Village, CO 80237","5,001 to 10,000","$1B to $5B (USD)","We are here to be a positive disruption to business as usual in the sports, live entertainment, and hospitality industries.","","","","","",""
+"in-010a1c017cdc2dd0","indeed","https://ca.indeed.com/viewjob?jk=010a1c017cdc2dd0","https://globalcareers-worldpac.icims.com/jobs/2271/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Delivery Driver/Warehouse - Downsview, ON","WorldPac","Downsview, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","Overview:
+
+The Delivery Driver / Warehouse team member drives over an established route(s) to deliver products and/or picks up returned merchandise from customers. Additionally, this position fulfills all shipping and receiving functions within the Branch.  
+
+Our team member’s value proposition includes competitive compensation and benefits, career path development and a supportive work environment that encourages innovation, creativity, and personal growth. WORLDPAC is proud to offer all our team members a workplace that is both challenging and rewarding, with a commitment to enable each of them to achieve their full potential.
+
+  
+
+Benefits:* Annual performance review/yearly merit increases
+* Opportunities to build a rewarding career with the fastest growing and most innovative replacement parts distributor in the industry
+* Extended health care, dental, vision, life insurance, disability
+* RRSP match
+* Employee assistance program
+* Paid time off
+* Employee discount
+
+
+Responsibilities:
+* Under general supervision this position drives the Company truck or automobile over an established route(s) to deliver products and/or picks up returned merchandise;
+* The candidate will also be responsible for collecting customer accounts and making approved pickups or deliveries;
+* Additionally, this position fulfills shipping and receiving functions within the warehouse \\-sorts, organizes and prepares merchandise from receiving or the production areas to storage or to other designated areas, by part and quantity;
+* May use computer to enter, maintain, locate and create records, dispatch, confirm customer or stock orders and to generate delivery manifests and receiving documents;
+* Follows all safety rules and applicable laws
+
+
+Qualifications:
+* Minimum 3 years’ class G driving experience required;
+* Must maintain a clean driver's abstract and immediately notify management of any change in its status;
+* Must be able to lift 50 lbs;
+* Maintains a professional appearance and follows the customer service philosophy of the Company;
+* Must be available Monday to Friday as well as alternating Saturdays
+
+
+Pay Range: CAD $18\\.50 \\- CAD $18\\.50 /Hr. Location Type: On\\-Site","Auto","https://ca.indeed.com/cmp/Worldpac","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a6e23a1dc2cf7f03a47c76fa43428290","https://www.worldpac.com","Newark","1,001 to 5,000","$500M to $1B (USD)","","","","","","",""
+"in-e7e308583849d429","indeed","https://ca.indeed.com/viewjob?jk=e7e308583849d429","https://careers.lululemon.com/en_US/careers/JobDetail/Product-Operations-Educator-Eaton-Centre-Toronto/48261","Product Operations Educator","lululemon","Toronto, ON, CA","2025-04-11","","","","","","",False,"","","","accommodations@lululemon.com, accommodations@lululemon.com","**Who We Are:**  
+
+lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transformational products and experiences that support people in moving, growing, connecting, and being well. We owe our success to our innovative product, emphasis on stores, commitment to our people, and the incredible connections we make in every community we're in. As a company, we focus on creating positive change to build a healthier, thriving future. In particular, that includes creating an equitable, inclusive and growth\\-focused environment for our people.
+  
+  
+
+**Job Summary:**  
+
+Product Operations Educators are experts in organization and efficiency, executing inventory processing and other product operations, as directed and according to the company's standards. Product Operations Educators receive and process shipments, organize product within the store (the retail floor and the back of house) as directed, and complete other inventory\\-related tasks to maximize profitable product sell\\-through. Support guests on the retail floor by providing service or connecting the guest to another team member.
+  
+  
+
+Core Responsibilities of the Job
+  
+  
+
+* Organize and clean the inventory workspace to maximize efficiency and maintain a safe store environment.
+* Execute inventory processing plan established by the Product Operations Lead, including accurate RFID inventory counts according to company standards.
+* Receive and process product deliveries according to the company's standards, such as folding, sorting, and hanging product to optimize space and productivity.
+* Reconcile, prepare, package, and ship product to appropriate locations according to company standards (e.g., damages, consolidations).
+* Execute product display adjustments, daily restocking and destocking, or product moves on the floor according to company standards to maintain store organization and presentation.
+* Execute market\\-relevant omnichannel programs (e.g., buy online/pickup in store and ship from store options) according to company standards.
+* Interact with guests or facilitate connection with another team member to provide service on the retail floor and support the guest's experience.
+* Contribute to a respectful and inclusive team environment to ensure a supportive and engaging experience for all team members and guests.
+* Use in\\-store technology to support store operations and provide positive guest experiences.
+
+
+Job Requirements
+  
+  
+
+Eligibility
+  
+  
+
+* Must be legally authorized to work in the country in which the store is located
+* Must have the ability to travel to assigned store with reliable transportation methods
+* Must be 18 years of age or older
+
+
+Schedule/Availability
+  
+  
+
+* The work schedule can vary based on store needs
+* Shifts may be scheduled: evenings, overnights, mornings, afternoons, weekends, and holidays
+* In addition, the schedule may include times when the store is closed to guests
+* No Experience Required
+
+
+Job Assets (i.e., nice to have; not required)
+  
+  
+
+* Education: High school diploma/GED/equivalent, or above
+* Experience (not necessarily the only focus of a role): retail, distribution center, or warehouse operations related (for example, stocking or inventory processing experience)
+
+
+What We Look For
+  
+  
+
+* Attention to Detail: Is careful about detail and thorough in completing work tasks
+* Being Organized: Prioritizes and efficiently performs and completes assigned tasks
+* Drive: Is self\\-motivated and determined to meet or exceed goals
+* Safety Orientation: Is committed to complying with safety rules and guidelines
+* Personal Responsibility: Accepts responsibility/accountability for actions; is dependable
+* Inclusion \\& Diversity: Creates/supports an inclusive environment that values/celebrates differences
+* Collaboration and Teamwork: Works productively with and supports others to achieve common goals; seeks connections, partnerships, and diverse perspectives
+* Adaptability/Agility: Navigates uncertainty and ambiguity and can change priorities in a fast\\-paced environment; recovers quickly from setbacks
+
+
+Work Context (e.g., environment, interactions, physical)
+  
+  
+
+* Work involves moving through the store, sometimes on the sales floor with bright lights and loud music, and sometimes in areas with no windows or natural light
+* Work is accomplished as part of a team, sometimes independently, and sometimes using a computer or other technology
+* Work may involve moving boxes weighing up to 30 lbs (13\\.6 kg) or using ladders to reach materials
+
+
+In keeping with our mission, please connect with us at accommodations@lululemon.com if you have questions about how your unique abilities may translate to the requirements for this role, with or without a reasonable accommodation. In your email, please include the position title, the location of the position and the nature of your question or request.
+  
+  
+
+Compensation \\& Benefits Package
+  
+**Base Pay Range:** $20\\.25 \\- $23\\.30/hour, subject to minimum wage in the location
+  
+**Target Bonus:** $2\\.00/hour
+  
+**Total Target Base Pay Range:** $22\\.25 \\- $25\\.30/hour
+  
+  
+
+lululemon's compensation offerings are grounded in a pay\\-for\\-performance philosophy that recognizes exceptional individual and team performance. The base pay offered is based on market location and may vary depending on job\\-related knowledge, skills, experience, and internal equity. As part of our offerings, employees in this position are eligible for our competitive bonus program, subject to program eligibility requirements.
+  
+  
+
+At lululemon, investing in our people is a top priority. We believe that when life works, work works. We strive to be the place where inclusive leaders come to develop and enable all to be well. Recognizing our teams for their performance and dedication, other components of our total rewards offerings include support of career development, wellbeing, and personal growth:
+  
+  
+
+* Extended health and dental benefits, and mental health plans
+* Paid time off
+* Savings and retirement plan matching
+* Generous employee discount
+* Fitness \\& yoga classes
+* Parenthood top\\-up
+* Extensive catalog of development course offerings
+* People networks, mentorship programs, and leadership series (to name a few)
+
+
+**Note:** The incentive programs, benefits, and perks have certain eligibility requirements. The Company reserves the right to alter these incentive programs, benefits, and perks in whole or in part at any time without advance notice.
+  
+  
+
+Qui nous sommes
+  
+  
+
+lululemon est une entreprise innovante de vêtements performants pour le yoga, la course à pied, l'entraînement et d'autres activités sportives. En établissant des standards élevés en matière de tissus techniques et de design fonctionnel, nous créons des produits et des expériences qui aident les gens à bouger, à croître, à tisser des liens et à se sentir bien. Nous devons notre succès à nos produits innovants, à l'importance que nous accordons à nos magasins, à notre engagement envers notre personnel et aux connexions incroyables que nous établissons dans chaque communauté où nous nous trouvons. En tant qu'entreprise, nous nous efforons de créer un changement positif pour construire un avenir sain et prospère. Cela consiste notamment à créer un environnement équitable, inclusif et axé sur la croissance pour notre personnel.
+  
+  
+
+Résumé du poste
+  
+Les éducateurs des activités\\-produits sont des experts dans les domaines de l'organisation et de l'efficacité, du traitement des stocks et d'autres activités\\-produits, selon les directives et les normes de l'entreprise. Les éducateurs des activités\\-produits reoivent et traitent les expéditions, organisent les produits dans le magasin (le plancher de vente au détail et l'arrière\\-boutique) selon les directives et accomplissent d'autres tâches liées au traitement des stocks afin d'optimiser l'écoulement des stocks de faon rentable. Ils aident les invités sur le plancher en offrant un service ou en les présentant à un(e) autre membre de l'équipe.
+  
+  
+
+Principales responsabilités liées au poste
+  
+  
+
+* Organiser et nettoyer l'espace réservé au traitement des stocks afin d'optimiser l'efficacité et maintenir un lieu sécuritaire en magasin.
+* Exécuter le plan de traitement des stocks établi par le responsable des activités\\-produits, y compris des prises d'inventaire RFID exactes selon les normes de l'entreprise.
+* Recevoir et traiter les livraisons de produits selon les normes de l'entreprise, comme le pliage, le tri et l'accrochage des produits afin d'optimiser l'espace et la productivité.
+* Concilier, préparer, emballer et expédier les produits aux endroits appropriés selon les normes de l'entreprise (p. ex., articles endommagés, consolidations).
+* Effectuer des ajustements liés à la présentation de produits, des restockages et déstockages quotidiens ou des déplacements de produits sur le plancher selon les normes de l'entreprise en vue de veiller à l'organisation et à la présentation du magasin.
+* Exécuter les programmes de la multiplateforme d'achat selon le marché (p. ex., options de l'achat en ligne/ramassage en magasin et de l'expédition à partir du magasin) conformément aux normes de l'entreprise.
+* Interagir avec les invités ou les présenter à un(e) autre membre de l'équipe pour offrir un service sur le plancher et soutenir l'expérience\\-invité.
+* Contribuer à un environnement d'équipe respectueux et inclusif afin de garantir une expérience positive et engageante pour tous les membres de l'équipe et les invités.
+* Utiliser la technologie en magasin pour soutenir les opérations du magasin et offrir des expériences\\-invités agréables.
+
+
+Exigences du poste
+  
+  
+
+Admissibilité
+  
+  
+
+* Doit être légalement autorisé à travailler dans le pays dans lequel le magasin est situé.
+* Doit avoir la capacité de se rendre au magasin attribué en utilisant des moyens de transport fiables.
+* Être âgé de 18 ans ou plus
+
+
+Horaire et disponibilité
+  
+  
+
+* L'horaire de travail peut varier en fonction des besoins du magasin.
+* Le travail a lieu selon un horaire variable, soit l'aube, le matin, l'après\\-midi, le soir, la nuit ou toute la nuit ainsi que les fins de semaine et les jours fériés.
+* De plus, l'horaire peut inclure des activités pendant les heures de fermeture aux invités.
+
+
+Atouts liés à l'emploi (c.\\-à\\-d. souhaitables, mais pas obligatoires)
+  
+  
+
+* Éducation : diplôme d'études secondaires/GED/équivalent ou supérieur
+* Expérience (pas nécessairement le seul point important d'un poste) : vente au détail, centre de distribution ou activités liées à un entrepôt (p. ex., expérience en stockage ou en traitement des stocks)
+
+
+Nos besoins
+  
+  
+
+* Souci du détail : fait preuve de souci du détail et de minutie dans l'exécution des tâches
+* Organisation : accorde la priorité aux tâches attribuées et les effectue de manière efficace et précise
+* Motivation : fait preuve de motivation et de détermination à atteindre ou dépasser les buts
+* Orientation sur la sécurité : s'engage à respecter les règles et les directives en matière de sécurité
+* Responsabilité personnelle : accepte de se tenir responsable de ses actes; fait preuve de fiabilité
+* Inclusion et diversité : crée ou favoriser un environnement inclusif qui valorise et célèbre les différences
+* Collaboration et travail d'équipe : travaille de manière productive avec les autres et les soutient en vue d'atteindre des objectifs communs; recherche des connexions, des partenariats et des points de vue divers
+* Adaptabilité et agilité : sait gérer l'incertitude et l'ambiguïté et peut changer de priorités dans un environnement en évolution rapide; se remet rapidement des échecs
+
+
+Contexte professionnel (p. ex., environnement, interactions, physique)
+  
+  
+
+* Le travail comprend le déplacement dans le magasin, parfois sur le plancher de vente avec des lumières vives et de la musique forte, parfois dans des zones sans fenêtre ni lumière naturelle
+* Le travail est accompli en équipe, parfois de manière indépendante, et parfois en utilisant un ordinateur ou d'autres technologies
+* Le travail pourrait consister à déplacer des boîtes pesant jusqu'à 30 lb (13,6 kg) ou à utiliser des échelles pour aller chercher des matériaux.
+* Conformément à notre mission, n'hésitez pas à nous contacter à l'adresse accommodations@lululemon.com si vous avez des questions sur la manière dont vos compétences uniques peuvent correspondre aux exigences de ce poste, avec ou sans accommodement raisonnable. Dans votre courriel, indiquez le titre du poste, le lieu du poste et votre demande spécifique.
+
+
+**Remarque :** la possibilité de profiter de ces avantages sociaux et de ces bénéfices peut dépendre de votre emplacement et de votre type d'emploi, et il peut y avoir certains critères d'admissibilité. L'entreprise se réserve le droit de modifier ces avantages sociaux et bénéfices, en tout ou en partie, en tout temps et sans préavis.
+  
+  
+
+Rémunération et avantages sociaux
+  
+  
+
+**Plage salariale de base:** 20,25 $ à 23,30 $/heure, assujetti au salaire minimum du lieu
+  
+  
+
+**Prime cible:** 2,00 $/heure
+  
+  
+
+**Plage salariale de base totale:** 22,25 $ à 25,30 $/heure
+  
+  
+
+Les offres de rémunération de lululemon sont axées sur une philosophie de paie selon le rendement qui récompense le rendement exceptionnel individuel et des équipes. La rémunération de base est fondée sur l'emplacement du marché et peut varier selon les connaissances, les compétences, l'expérience et l'équité interne liées au poste. Dans le cadre de notre offre, les employés permanents à ce poste peuvent être admissibles à notre programme de primes annuelles concurrentielles, en fonction des exigences d'admissibilité du programme.
+  
+  
+
+Chez lululemon, notre priorité est d'investir dans nos collaborateurs trices. Nous croyons que lorsque la vie va bien, le travail va bien. Nous nous efforons de devenir l'entreprise qui attire les leaders inclusifs en leur offrant la possibilité de se perfectionner et de favoriser le bien\\-être de tous. Afin d'exprimer notre reconnaissance à nos équipes pour leur rendement et leur engagement, nos offres de primes totales incluent également des éléments de soutien du développement professionnel, du bien\\-être et de la croissance personnelle:
+  
+  
+
+* régimes étendus de prestations de soins médicaux, dentaires et de santé mentale;
+* congés payés;
+* cotisations de l'entreprise aux régimes d'épargne et de retraite;
+* généreuses remises pour les employés;
+* des cours de conditionnement physique et de yoga;
+* un programme jeunes parents hors pair;
+* riche catalogue d'offres de cours de développement;
+* réseaux de personnes, programmes de mentorat et série de leadership (entre autres).
+
+
+**Remarque:** les programmes incitatifs, les prestations et les avantages sociaux sont assortis de certaines exigences d'admissibilité. L'entreprise se réserve le droit de modifier ces programmes incitatifs, avantages sociaux et prestations, en tout ou en partie, en tout temps et sans préavis.","","https://ca.indeed.com/cmp/Lululemon-e2ea86c4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e342a64a3b982e384fca45d395c3050c","http://www.lululemon.com","Vancouver, BC","10,000+","$5B to $10B (USD)","lululemon is a technical activewear, loungewear and footwear company for all the ways you love to move.","","","","","",""
+"in-1dcb86f2ae8c50b6","indeed","https://ca.indeed.com/viewjob?jk=1dcb86f2ae8c50b6","https://canadagoose.wd3.myworkdayjobs.com/CanadaGooseCareers/job/Toronto-Ontario-CAN/Coordinator--Raw-Material-Inventory_14594","Coordinator, Raw Material Inventory","Canada Goose","Toronto, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","HR@canadagoose.com","Location:
+
+
+CGT
+Address:
+
+
+250 Bowie Avenue Toronto, Ontario M6E 4Y2 Canada
+Job Title:
+
+
+Coordinator, Raw Material Inventory
+Canada Goose isn't like anything else. We've built something great, something special \\- an iconic lifestyle brand with an inspirational and authentic story. At the heart of it is our promise to inspire and enable all people to thrive in the world outside. To Live in the Open. At Canada Goose, you're part of a movement that belongs to something bigger. One that seeks out the restorative power of nature and is driven by a purpose to keep the planet cold and the people on it warm. We endure any condition, observe every detail, and are building a community that believes in living bravely and coming together to support game\\-changing people.
+
+
+Here, opportunities are everywhere \\- to try something new, to learn, to do meaningful and impactful work, and they're yours for the taking.
+
+
+Position Overview:
+
+
+The Inventory Coordinator plays a key role in supporting inventory accuracy and operational efficiency across Canada Goose’s supply chain network. This position is responsible for processing and verifying receiving documentation, executing systemic inventory transactions, and coordinating the movement of raw materials and finished goods across internal facilities and third\\-party logistics (3PL) partners. The Inventory Coordinator will collaborate closely with internal teams and external stakeholders to ensure timely and accurate inventory management, resolve discrepancies, and contribute to continuous improvement in inventory practices. This role requires strong attention to detail, and the ability to thrive in a fast\\-paced environment while embodying the core values of Canada Goose.
+
+**What You’ll Do:**
+
+* Accurately process and verify all receiving documentation to ensure timely and correct inventory entry
+* Partner with the Inventory Analyst and Supervisor to uphold inventory accuracy across Canada Goose\\-owned facilities and contractor sites
+* Execute daily ERP transactions related to raw materials and finished goods, including transfers and purchase order processing
+* Coordinate outbound shipments from all production sites by creating pick routes, scheduling pickups, and reporting inbound shipments to 3PL providers
+* Investigate and reconcile shipping discrepancies promptly to minimize disruption in the supply chain
+* Track and report monthly lead times for finished goods processing
+* Participate in daily operations calls with third\\-party logistics partners to support alignment and issue resolution
+
+**Let's Talk About You:**
+
+* 2–4 years of related experience, preferably within a warehouse, logistics, or supply chain environment
+* Post\\-secondary diploma or degree in a relevant field, or equivalent professional experience
+* Supply chain certification (e.g., APICS, CSCMP) considered an asset
+* All raw material receipts are verified and processed accurately and in a timely manner
+* Outbound raw material shipments are executed with efficiency and precision
+* Pick routes for outbound finished goods are completed with exceptional accuracy, supporting on\\-time deliveries
+* Strong, collaborative relationships are maintained with internal teams and external partners to support smooth inventory operations
+* Exceptional attention to detail with a strong focus on accuracy and data integrity
+* Proficient in ERP systems, with experience in Microsoft Dynamics 365 (D365\\) preferred, as well as Microsoft Office Suite
+* Strong problem\\-solving and analytical skills; able to extract insights from data and make informed recommendations
+* Effective communicator with excellent interpersonal skills to collaborate across teams and with external stakeholders
+* Self\\-starter with the ability to manage multiple priorities in a fast\\-paced, dynamic environment
+* Demonstrates Canada Goose’s core values—entrepreneurship, relentlessness, passion, innovation, and authenticity—with a strong sense of personal ownership and pride in their work
+
+**What’s in it For You?**
+
+* A company built on Canadian roots and heritage
+* Your work is recognized with a comprehensive and competitive Total Rewards Program
+* Opportunities for career growth through numerous internal and external programs
+* Recognize and be recognized by your peers with our Goose Rewards \\& ICON Rewards
+* Be a part of *CG Gives*. Donation matching and paid volunteer time to help the organizations you care about
+* Access to tools and resources to support physical and mental health, embracing change and connecting with colleagues
+* Inspiring leaders and colleagues who will lift you up and help you grow
+
+
+We believe in the power of inclusion and are passionate about building and sustaining an inclusive and equitable working environment where all employees can bring their authentic selves to work everyday. We believe every one of our team members enriches our diversity by exposing us to varying ways to understand the world, identify challenges, and to discover, design, produce, and deliver great products and service. Our different perspectives are what enable us to create, dream and live in the open.
+
+
+Canada Goose is an equal opportunity employer and is committed to providing employment accommodation in accordance with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act.
+
+
+There are multiple ways to interview with us! If you require any interview accommodation for your interview, please e\\-mail us at HR@canadagoose.com.","","https://ca.indeed.com/cmp/Canada-Goose","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7ab0f6ff974878514d3e89bd3eccb3eb","http://www.canadagoose.com","Toronto, ON","1,001 to 5,000","Decline to state","Canada Goose isn't like anything else. We’ve built something great, something special – an iconic lifestyle brand with an inspirational and authentic story.","","","","","",""
+"in-a9dcb7c39eebdfe7","indeed","https://ca.indeed.com/viewjob?jk=a9dcb7c39eebdfe7","https://recruiting.ultipro.ca/SEN5000SENX/JobBoard/6fb48162-c3e8-4579-93b7-29ce79199149/OpportunityDetail?opportunityId=118c504b-ced0-4b6c-b284-74d47c68ffc0&postingId=b9e5ad7c-1ce3-4c36-9402-8d1078d58ce9","Supplier Quality Assurance Auditor (Markham, Hybrid)","Sentrex Distribution Inc.","Markham, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","**Position Type:** Full Time
+
+
+**Department:** Quality Assurance
+
+
+**Work Location:** Markham
+
+
+**Work Arrangement:** Hybrid
+
+
+**Work Hours:** Monday to Friday \\- standard business hours
+
+
+**Travel Required:** Yes (Occasionally across Canada)
+
+
+
+A proudly Canadian company, Sentrex Health Solutions is a fully integrated specialty distributor and patient support provider for pharmaceutical manufacturers, physicians, and their patients. We provide innovative solutions focused on ensuring patients have access and the support they need to maximize their treatment outcomes. We do this through strategic distribution models and patient support programs that are backed by powerful, integrated technology, a dedicated in\\-house creative agency, and experienced, cross\\-functional teams. Our core capabilities include **Specialty Pharmacy Services, Customized Solutions for Warehouse, Wholesale \\& Distribution, Patient Support Programs, Strategic Creative Services as well as HCP \\& Clinic Services.**
+
+
+**Come and join our team! But first, let us tell you why we love working here:**
+
+
+* We are 100% Canadian with locations across the country
+* State\\-of\\-the\\-art facilities to provide high\\-quality products and services
+* The opportunity to be a part of a winning, high\\-performing team
+* Collaborative, engaging workplace culture – we are passionate about our people!
+* Flexible working environment that promotes a healthy work\\-life balance
+* Diverse and inclusive culture where your talent and commitment to excellence is welcomed and valued
+* High\\-growth environment that provides opportunities for learning and growth supported by our Employee Development Program and industry\\-leading, in\\-house corporate training offered throughout the year
+
+
+**The Opportunity:**
+
+
+
+The Supplier QA Auditor role is based in our facility in Markham and the key functions include working with cross functional teams to ensure the Quality Management System (QMS) is being followed and supported by our vendors.
+
+
+
+In this role you will be required to schedule, conduct and document assigned external audits (i.e. Infusion partners \\& wholesale related third parties), as well as participating in regulatory inspections with approved procedures and schedules. You will analyze audit data (i.e. from infusion clinic audits) and provide recommendations to improve the quality and safety of patient care. You will also be an ambassador for the quality culture in Sentrex.
+
+
+**A Day in the Life (What you will do here):**
+
+
+
+The Supplier QA Auditor, reporting to an independent Quality Assurance team at Sentrex will contribute to the team’s success by:
+
+
+**Infusion Clinic Quality Audit \\& Monitoring:**
+
+
+* Perform regular quality audits of infusion clinics, and work closely with the infusion experience managers to improve the safety of patient care.
+* Review clinic processes, patient records, and infusion therapy protocols to ensure compliance to applicable regulations and client requirements.
+* Document audit findings in the validated Quality Management System, and follow\\-up on corrective \\& preventive actions.
+* On a periodic basis, monitor the quality of the performance of the infusion clinics, ensuring a standardization of processes across infusion partners.
+* Complete a monthly quality metric analysis to report performance of infusions and highlight any risk or opportunities.
+* Investigate any patient safety complaints, in collaboration with the QA Manager and VP, Quality \\& Patient Safety.
+* Collaborate with the pharmacovigilance department to ensure that all PV training (Sentrex \\& Client) are completed and adverse event reporting processes are well defined and adhered to.
+* Maintaining an approved infusion supplier \\& wholesale third\\-party list.
+
+
+**Other:**
+
+
+* Support wholesale related supplier audits, to ensure the compliance of our vendors to applicable drug and medical devices regulations.
+* Complete Audit schedules and execute audits per plan.
+* Travel, as required, nationally within Canada.
+* Writing SOPs, and stay current with all applicable regulations.
+* Writing audit plans, audit reports, audit close\\-out letters in according with the Quality Assurance departments approved timelines and templates.
+* Additional duties as determined by your Manager.
+
+
+**What you need to ensure you are set up for success:**
+
+
+* You have a Bachelor’s degree in Chemistry, Biochemistry, Biology or other related discipline and a minimum of three (3\\) to five (5\\) years of knowledge and working experience with all aspects of quality assurance which relate to a pharmaceutical organization.
+* You are well organized and detail oriented.
+* You have a thorough knowledge and understanding of Canadian (Health Canada) Food and Drug Regulations and guidelines.
+* You have experience with GMP, GVP, GCP, ICH regulations and guidelines.
+* Experience with auditing software vendors and/or GAMP V / CSV is an asset.
+* You have excellent verbal and written communication skills.
+* Bilingualism (French/English) is considered an asset.
+* Experience participating in regulatory agency inspections is an asset.
+* Certification in a recognized quality auditor program is an asset
+
+
+**What makes you a great fit for this team:**
+
+
+* Your commitment to providing a high level of service to your internal and external clients.
+* You are highly adaptable with a track record of success during times of growth and organizational change.
+* You have a proven track record of developing trust and influence at multiple levels.
+* You demonstrate an impactful and candid communication style.
+* You have exceptional organizational skills with the ability to build effective working relationships with colleagues, management, and stakeholders.
+
+
+**Why join Sentrex?**
+
+
+
+We value our employees! Our permanent full\\-time employees are provided with a:
+
+
+* Competitive Salary and generous vacation entitlement
+* Wellness Program (5 paid days off for your well\\-being!)
+* Paid Sick Days
+* Competitive Benefits Package including Dental \\& Extended Health Benefits, AD\\&D, LTD \\& Employee/Dependent Life Insurance
+* Employee \\& Family Assistance Program
+* RRSP Matching Program
+
+
+**Sentrex Health Solutions is proud to be an equal opportunity employer demonstrated by our commitment to diversity, inclusion, belonging, equity, and accessibility. We provide a safe space for all team members to express their individuality within our corporate culture.**
+
+
+**We encourage you to apply and accept all applications. We realize that not every candidate will meet every single desired qualification. If your experience looks a little different from what we have identified and you think you can bring value to the role, we would love to learn more about you!**
+
+
+**Accommodations can be made available upon request for those candidates taking part in the selection process.**","","https://ca.indeed.com/cmp/Sentrex-Distribution-Inc.","","","","","","","","","","","",""
+"in-a5c7460b9fa93218","indeed","https://ca.indeed.com/viewjob?jk=a5c7460b9fa93218","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2de0bf-2cfa-4e55-af75-afbe967b6744&ccId=19000101_000001&jobId=540228&source=IN&lang=en_CA","Warehouse Associate","Genumark Promotional Me","Toronto, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","Genumark is looking for a motivated individual to join our growing team as a **Warehouse Associate** based out our Toronto headquarters.
+
+ **Who We Are**  
+
+We are an award\\-winning and rapidly growing company that builds clients’ brands through innovative branded merchandise programs. Founded in 1980 and headquartered in Toronto, we now operate seamlessly across North America.
+
+
+Large enough to work with some of North America's most high\\-profile brands, we're also small enough to appreciate the individual contributions that make our success possible. Our team is enthusiastic and creative, and together we’re a dynamic, growing company focused on culture and success.
+
+
+We have been named a top 40 distributor by both ASI and PPAI, recognized as one of Canada’s Best Managed Companies for the past seven years, and awarded National Distributor of the Year by PPPC more times than we can count. Ok. We counted. 16 times.
+
+  
+
+In 2023 we achieved B\\-Corp Certification and became proud members of the B\\-Corp community, doing our part to create a positive impact for society and the environment. Caring about the communities we live in *and* the ones we don’t are at the core of who we are.
+
+ **About The Role**
+
+
+Our teams manage major accounts whose brands are part of our everyday lives and shape our culture. We have a ton of merch that come in and out of our warehouse every day. How this role fits in the grand scheme of Genumark is that as a Warehouse Associate, you play a key role in ensuring accurate receiving, storage, and order fulfilment to keep products moving from suppliers to clients efficiently.
+
+
+Accuracy, attention to detail, and organization is the name of the game – you will support fast\\-paced operations, maintain inventory accuracy, and help drive customer satisfaction through timely and precise order handling. Your attention to detail and commitment to safety will directly impact the success of our operations.
+
+
+Additionally, this role involves a high degree of physical activity each day – lifting up to forty pounds unaided, as well as standing for long periods of time, working in awkward positions (twisting, bending, crouching), repetitive manual operations (such as packing small parts quickly, etc.), pushing and pulling objects in general, pushing and pulling hand carts.
+
+
+Key responsibilities include, but not be limited to:
+
+* Receive and inspect incoming shipments for accuracy and damage
+* Pick, pack, and prepare orders for shipment
+* Manage various shipping methods, with the most cost\\-effective method carefully selected
+* Load and unload trucks using pallet jacks or forklifts (if certified)
+* Ability to lift up to 40 lbs and stand/walk for extended periods
+* Ability to use an RF scanner
+* Maintain accurate inventory records and assist with inventory counts
+* Keep warehouse clean, organized, and in compliance with safety standards
+* Operate basic warehouse equipment and tools safely and efficiently
+* Follow company procedures and safety protocols at all times
+* Strong attention to detail and organizational skills
+* Ability to work independently and as part of a team
+* Assist in other duties as assigned by the warehouse supervisor or manager
+
+
+This role is based at our Head office (Gordon Baker Road) and requires working on\\-site daily.
+
+ **Who You Are**
+
+
+Your professional toolbox contains customer\\-first mindset, collaboration, commitment, and compassion. You love to make a difference in customer experience and are intentional in delivering a personalized service. You value quality and take pride in your work because you know it directly affects our clients and wowing them is a huge deal to you.
+
+  
+
+You commit. You do what you say you’ll do and you are focused on meeting deadlines. Presented with a challenge, you’ve got a “Yes!” attitude and are focused on finding a solution. You are meticulous, organised, resourceful, and excel under pressure. Personable and open minded, you are comfortable collaborating and communicate well with all peers.
+
+ **What we Offer**
+
+
+We're not just offering a job, we're offering a platform for your success. Our team is amazing (at least we think so!) and our operational support is top\\-notch. You have the opportunity to work with some great folks, learn about some pretty cool merch, and sometimes, own a few of them too!
+
+
+We offer a great benefit package, we have fun office events, and we care about your sense of well\\-being and belonging.
+
+
+As for compensation, the range is between $43,000 \\- $48,000 annually.
+
+ **How to Apply**
+
+
+Ready to unleash your full potential and be a part of something big? Apply now.
+
+
+We look forward to meeting you!
+
+ *Genumark is proud to be an Equal Opportunity Employer supporting diversity in all of our business practices.*
+
+ *We are proud to provide employment accommodation during the recruitment process. Should you require any accommodation, please indicate this on your application and we will work with you to meet your accessibility needs.*","","https://ca.indeed.com/cmp/Genumark-Promotional-Me","","","","","","","","","","","",""
+"in-bfeb3fe096ec9c3e","indeed","https://ca.indeed.com/viewjob?jk=bfeb3fe096ec9c3e","https://myview.wd3.myworkdayjobs.com/sdm_careers/job/1685-Tech-Ave-Mississauga-ON/Distribution-Customer-Service-Representative_R2000556295?source=indeed&utm_source=indeed.com&utm_medium=referral","Distribution Customer Service Representative","Specialty Health Network","Mississauga, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","**Location:**
+
+1685 Tech Ave, Mississauga, Ontario, L4W 0A7
+At Shoppers Drug Mart, we’re innovating health and wellness in Canada. From prescriptions to walk\\-in clinics, and a beloved loyalty program, we’re caring and supporting our customers in new ways every day.  
+
+With more than 1,300 locally owned and operated stores from coast to coast, the Shoppers Drug Mart network is more than a great place to shop, it’s a great place to work. We’re committed to building our talented team who champion collaboration, kindness and inclusivity. Join our team, and help recognize a healthy future for your career and for all Canadians.
+
+**Why this role is important?**
+
+**Basic Function**
+
+
+The Distribution Customer Service Representative is responsible for the efficient and accurate processing of all customer order requests and returns while strictly following the GMP Guidelines and Standard Operating Procedures (SOPs). Effectively handle all inquiries from customer and internal departments, while maintaining high level of customer service.
+
+**Nature and Scope**
+
+
+The DCSR must meet the requirements of external customers, while working within established credit, inventory and distribution protocols to ensure that clients receive the highest quality of service in either official language.
+
+
+The incumbent must possess superior customer service and problem\\-solving skills. This will enable the DCSR to evaluate priorities, perform required tracking analysis, and react quickly to emergency situations. To meet business requirements, and as business dictates, the position may require overtime/shift work on a rotational basis.
+
+**What you will do**
+
+* Manage customer accounts to ensure correct data is captured
+* Entry of client orders multiple system ensuring accuracy and completeness of required information to facilitate the order.
+* Analyze orders to ensure all items normally required are included, quantities are reasonable, account is established, and delivery expectations can be met.
+* Handle customer complaints effectively with satisfactory resolutions.
+* Report all Adverse Events (AE) and Product Technical Complaints (PTC) immediately or as soon as possible upon becoming aware of the event as per current policies and procedures.
+* Problem solving with internal and external stakeholders.
+* Establish and maintain customer records.
+* Liaison with Finance representative to process client credit and assist as necessary.
+* Liaison with Warehouse team for order processing, delivery scheduling, follow ups, order changes etc.
+* Coordination and tracking/analysis of successful/re\\-attempt/unsuccessful orders.
+* The ability to be sensitive to client concerns, investigative skills to resolve distribution oddities, and the ability to provide clear communication/service in both official languages.
+* 70% time spent answering calls/emails with customers.
+* Majority of work is spent multi\\-tasking between calls, emails, faxes, order queues.
+* Manage online portal escalations for internal and external users.
+* Educate customers on the online order portal and provide training as required.
+* Maintain knowledge of all company policies and procedures with high emphasis placed on ethical conduct and strict confidentiality of client information.
+* Other projects as assigned by the Supervisor, Supply Chain and Distribution
+* Must be available to work Monday\\-Friday 9 am \\- 6 pm
+* Must be flexible to work overtime when/if required
+
+**What you will need**
+
+* Minimum of 2 to 4 years experience in the pharmaceutical industry
+* Demonstrated multi\\-tasking, analytical and problem\\-solving skills a must while maintaining positive client relations.
+* Proactive, strong interpersonal, negotiation and consensus building skills and the ability to work in a fast\\-paced team\\-oriented environment.
+* Responsive, adaptable to change and is self\\-directed.
+* Extensive knowledge of customer service procedures (including industry best practices)
+* Strong communication skills – written and verbal
+* Proficient computer skills – Microsoft Word, Excel, PowerPoint and Outlook
+* Bilingual – English/French (strong) – written and oral is essential
+
+**Why work at Shoppers Drug Mart?**
+
+
+Acting as consultants, supporting internal customers and the Associate\\-Owners, you will get experience unique to the retail industry while working for an award\\-winning national brand. Benefit from a purchase discount program, competitive pay and online learning through *Academy*.
+
+
+Take ownership of your work and find more ways to care about your work, co\\-workers, customers and community.
+
+**How You’ll Succeed:**
+
+
+At Shoppers Drug Mart Inc., we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections.
+
+
+If that sounds like you, and you are open\\-minded, responsive to change and up to the challenges provided in a fast\\-paced retail environment, apply today.
+
+**Employment Type:**
+
+
+Full time**Type of Role:**
+
+
+Regular
+Shoppers Drug Mart Inc. recognizes Canada’s diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants with disabilities in the recruitment and assessment process and when hired.
+
+
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us.
+
+**Please Note: If you have Employee Self Service (ESS) on Workday, apply to this job via the Workday application.**","","https://ca.indeed.com/cmp/Specialty-Health-Network","","","","","","","","","","","",""
+"in-f61195caa3f1d9c0","indeed","https://ca.indeed.com/viewjob?jk=f61195caa3f1d9c0","https://www.tesla.com/careers/search/job/241049?source=Indeed","Internship, Technical Program Management, Cell Engineering (Fall 2025)","Tesla","Markham, ON, CA","2025-04-11","parttime, fulltime","","","","","",False,"","","","","**What to Expect**
+Consider before submitting an application:
+
+
+This position is expected to start around August 2025 and continue through the entire Fall term (i.e. through December 2025\\) or into Spring 2026 if available. We ask for a minimum of 12 weeks, full\\-time and on\\-site, for most internships.
+
+
+International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on\\-site. Many students will be limited to part\\-time during the academic year.
+
+
+The Internship Recruiting Team is driven by the passion to recognize and develop emerging talent. Our year\\-round program places the best students in positions where they will grow technically, professionally, and personally through their experience working closely with their Manager, Mentor, and team. We are dedicated to providing an experience that allows the intern to experience life at Tesla by including them in projects that are critical to their team’s success.
+
+
+ Location: Toronto, ON
+
+ **What You'll Do**
+Qualified applicants may be reviewed by one or more of the following teams:
+
+
+Materials Operations Planner Intern
+
+  
+
+* Material Planner Intern is a pivotal role within the operations department, that will manage the procurement of materials, planning production, initiate and coordinate the successful completion of equipment build. This person will also manage inventories while also coordinating with suppliers and internal stakeholders. Experience in material planning or related experience working in a manufacturing and warehouse environment is preferred but not required.
+
+
+Technical Project Management Intern
+
+  
+
+* The Technical Project Management Intern on the TTA Project Management Team will be a cross\\-functional point of contact leading tool activity coordination, support new product introduction on new \\& existing equipment, lead the project roadmap with engineering team members, and jump in to support gaps within the project as necessary. Production exposure, understanding of how complex production lines operate including industrial workings between cross\\-functional facilities/departments, line balance, OEE, KPI, etc. Manufacturing exposure, understanding of the balance of equipment, process, metrology, controls, production interactions/coordination. Experience in Program/Project Management or Technical Leadership.
+
+
+Project Management Administration Intern
+
+  
+
+* Seeking a highly motivated undergraduate to contribute as Project Management Administration in Manufacturing Department. There are many manufacturing projects which are running in TTA. coordinating these projects from beginning to end is highly important. This is an exciting opportunity to join a world\\-class manufacturing facility.
+  
+
+**What You'll Bring*** Currently pursuing a degree in Engineering, Electrical, Mechanical, Mechatronics, Computer Science, or a related field
+  
+
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+
+  
+
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://ca.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-326513a888853236","indeed","https://ca.indeed.com/viewjob?jk=326513a888853236","https://poolcorp.wd1.myworkdayjobs.com/en-US/POOLCORP/job/Bowmanville-ON/Seasonal-Warehouse-Associate_R17363-1","Seasonal Warehouse Associate","POOLCORP","Bowmanville, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","**Pay:** Competitive hourly rates, plus up to $2,500 in Summer Bonuses, and so much more!  
+
+
+
+**Location:** **Bowmanville, Ontario \\- 110,** 221 Lake Road, Units 3\\-6, Bowmanville, Ontario \\- L1C 4P8
+
+
+**Job Summary**
+
+The Warehouse Associate will increase operational efficiency, company profitability and customer satisfaction by accurately and safely receiving and storing materials, as well as picking, packing and scanning orders for pickup and delivery.
+
+
+**Responsibilities:**
+
+* Accurately pulls, fills, packs and sets up orders for delivery or pickup.
+* Organizes shipment priorities, commercial carrier, daily, job site and will call and stages the orders in uniform fashion for ease of loading and verification.
+* Assists in loading the delivery truck.
+* Receives shipments, logs into inventory, maintains inventory through audits.
+* Locates manufacturer’s packing list, verifies receipt of each item listed, signs and attaches packing list to each bill of lading.
+* Signs and dates freight bill noting all adjustments and/or damage to product and reports any quality or inventory discrepancy issues to the appropriate person.
+* Communicates positively with supervisors, sales staff, fellow workers and customers to coordinate deliveries/pick\\-up.
+* Moves all inventory into allocated spaces within warehouse.
+* Operates a forklift safely and efficiently, maintains required certification, performs vehicle safety checks and reports discrepancies to supervisor.
+* Assists in keeping facility clean, neat, safe and operating efficiently.
+* Processes returns accurately.
+* Attends product knowledge meetings as required by management.
+* Assists in keeping facility secure. Ensures all equipment is stored at end of day and all doors and gates are secured.
+* Maintains proficiency in computerized systems and other technologies as required.
+* Other duties as assigned.
+
+**Requirements:**
+
+* High school diploma or GED.
+* Prior experience in distribution or warehousing preferred.
+* Ability to maneuver heavy objects, some weighing up to 100 pounds.
+* Good communication skills, both written and verbal.
+* Follow and carry out instructions with minimal supervision.
+* Good interpersonal skills.
+* Prior forklift experience.
+* Must be 18 years of age or older to apply.
+
+**Why not work for an INDUSTRY LEADER?**
+
+POOLCORP is the world’s leading distributor of outdoor living products. We operate in more than 445 Sales Centers with over 6,000 employees who proudly service the needs of our customers. Our company strives to employ only the best CDL and Delivery Drivers, Warehouse Associates and Inside Sales Representatives as well as Sales Center Managers and Operations Managers.
+
+
+**Why POOLCORP?**
+
+Because it is a place where you can grow! At POOLCORP you’ll find plenty of excellent career advancement and training opportunities to support your career growth. And, our generous compensation and benefits package includes Healthcare, Dental, Life/AD\\&D, paid time off and discounts specifically offered to POOL employees. During busy seasons, we also offer performance bonuses. And finally, our family\\-oriented, hometown culture is supported by a stable, large corporate enterprise – giving you the best of all worlds.
+
+
+So, end your job search here – at POOLCORP – *Where Outdoor Living Comes to Life!*
+
+*POOLCORP is a drug\\-free company.*
+
+*POOLCORP is an Equal Opportunity Employer – By Choice. The Company understands, respects, and values diversity – unique styles, experiences, identities, ideas, and opinions – while striving to be inclusive of all people. This commitment is critical to our success as a global company as we seek to recruit, develop, and retain the most talented people from a diverse candidate pool. Hiring and promotional decisions are based solely on the qualifications required for the job to be filled.*
+
+*This position is considered ""safety\\-sensitive"" and includes tasks or duties which could affect the safety and health of the employee performing the tasks or others.*
+
+*POOLCORP welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.*","","https://ca.indeed.com/cmp/Poolcorp","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/99454a6b6f6de66c7eca6a9fbdbad5d0","http://www.poolcorp.com","Covington, LA","5,001 to 10,000","$5B to $10B (USD)","POOLCORP® is the world’s largest wholesale distributor of swimming pool equipment, landscape materials, and other outdoor leisure products.","","","","","",""
+"in-fa58384d739f6176","indeed","https://ca.indeed.com/viewjob?jk=fa58384d739f6176","https://can251.dayforcehcm.com/CandidatePortal/en-US/habitatgta/Posting/View/356?source=Indeed","Material Handler/Driver Assistant","Habitat for Humanity GTA","Toronto, ON, CA","2025-04-11","fulltime","","","","","",False,"","","","","**Job Title:** Material Handler/Driver Assistant
+  
+**Reports To:** Regional Manager, Procurement
+  
+**Terms of Employment:** Full\\-time, Contract (May 5 to August 30, 2025\\)
+  
+**Salary:** $18/Hour
+  
+**Location:** Habitat for Humanity Central Distribution Center (101 Alexdon road , North York M3J 2B5\\)
+  
+**Website:** www.habitatgta.ca or www.instagram.com/habitatgta
+  
+  
+
+Who We Are
+  
+Habitat for Humanity Greater Toronto Area (Habitat GTA) is leading the way in addressing one of the most pressing issues of our time: the need for affordable homes. We partner with working families in need of an affordable, safe and secure place to live and enable their family’s ability to thrive. We are a land developer, a home builder, a fundraiser, and a mortgage holder. In support of our homebuilding operations, Habitat GTA operates a retail home improvement store called Habitat ReStore, which sells donated home furnishings, appliances, and renovation materials, with all proceeds helping us build more homes.
+  
+Habitat GTA is growing. We are an innovative, entrepreneurial social enterprise that has been increasing our capacity for impact each year. Together, we are building a better, more inclusive GTA for everyone.
+  
+  
+
+Job Purpose
+  
+The Material Handler / Driver’s Assistant supports daily delivery operations by assisting drivers with loading/unloading materials, performing pre\\- and post\\-trip vehicle checks, and ensuring safe, efficient handling of goods. This role also involves warehouse support, inventory handling, and upholding company standards of safety, service, and professionalism on\\-site and on the road.
+  
+  
+
+The Opportunity
+  
+* Represent Habitat for Humanity GTA as a Brand Ambassador by modeling our values and guiding principles
+* Learn, understand and participate in the Health and Safety Program
+* Assist driver with navigation, communication, and delivery coordination
+* Safely load and unload materials from trucks using proper lifting techniques and tools
+* Act as a spotter during vehicle maneuvers, especially in tight or congested areas
+* Maintain a clean and professional image when interacting with customers or clients.
+* Communicate clearly and professionally with donors, customers, team members, and dispatch to ensure smooth operations.
+* Assist in completing delivery and pickup documentation, including signatures, notes, or photos where required.
+* Treat donated items with care and respect, recognizing their value to the donor and Habitat for Humanity.
+* Receive, store, and organize materials in the warehouse.
+* Prepare orders for delivery or internal use, including staging and labeling.
+* Operate material handling equipment (e.g., pallet jacks, forklifts) where certified.
+* Maintain inventory accuracy and assist with cycle counts or audits.
+* Follow all safety protocols during loading, unloading, and vehicle movement.
+* Wear appropriate PPE and enforce safety measures during all operations.
+* Report any equipment, or product damage immediately to supervisors
+* Assist with cleaning, pricing when needed
+* Any additional duties as required
+
+
+What You Bring
+  
+* High school diploma or equivalent (preferred)
+* English speaking, strong reading and writing skills
+* Previous experience in material handling, delivery, or logistics is a plus
+* Physically fit — able to lift up to 50 lbs, bend, twist, and stand for extended periods
+* Strong teamwork, communication, and time management skills
+
+
+Your application
+  
+If you are ready to make a change in your local community and become a part of our team at Habitat for Humanity GTA, click on the Apply button within this posting or click on our Careers Page to find more: https://habitatgta.ca/careers/
+  
+Your Future at Habitat for Humanity GTA Awaits.
+  
+Applicants must be eligible to work in Canada throughout the duration of their employment with Habitat for Humanity GTA. Proof of eligibility will be required.
+  
+Habitat for Humanity GTA is committed to creating a diverse environment and is proud to be an equal opportunity employer.
+  
+Habitat for Humanity GTA is committed to ensuring a barrier\\-free, accessible and inclusive work environment. We welcome and encourage applications from people with disabilities. Upon individual request, we will endeavor to remove barriers to the hiring process to accommodate candidates with disabilities, providing the applicant has met the bonafide requirements of the employment position. Please inform us should accommodation be required at any point during the recruitment and selection process.
+  
+As part of our selection process, the successful candidate must receive clearance by a police background check.
+  
+We thank all applicants for their interest in Habitat for Humanity GTA, however only those selected for an interview will be contacted.","Organization","https://ca.indeed.com/cmp/Habitat-For-Humanity-Gta","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aadaa7484f6062a0ed41469e284c6ef0","https://habitatgta.ca/","155 Bermondsey Rd, North York, ON M4A 1X9","51 to 200","","Habitat for Humanity GTA is a non-profit housing organization working with communities to build homes for working, low-income families in need of safe, decent, affordable housing.","","","","","",""
+"in-a67e36c61d3a488d","indeed","https://ca.indeed.com/viewjob?jk=a67e36c61d3a488d","https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=53636&JobID=J0225-1192&BRID=309130&sbdid=936","Inventory Technician – Surgical Suite","Southlake Health","Newmarket, ON, CA","2025-02-27","parttime","","","","","",False,"","","","","**Company Bio**
+
+*Southlake is building healthy communities through outstanding care, innovative partnerships, and amazing people. We deliver a wide range of healthcare services to the communities of northern York Region and southern Simcoe County. Our advanced regional programs include Cancer Care and Cardiac Care and serve a broader population across the northern GTA and into Simcoe\\-Muskoka.*
+
+*Our team of nearly 6,000 staff, physicians, volunteers, students and Patient and Family Advisors are committed to creating an environment where the best experiences happen. As a recognition of our commitment to quality and patient safety, we have received the highest distinction of Exemplary Standing from Accreditation Canada.*
+
+**Job Summary**
+
+
+The Inventory Technician, as a member of the multi\\-disciplinary team, performs a variety of procurement, inventory and supply chain related activities in support of patient care in a fully computerized environment. Monitoring and maintaining appropriate levels of supplies and equipment required for patient care. Executing purchasing and inventory process, within the policies and procedures and consistent with the requirements for quality, quantity and price for the required departments. He/she role models the organizational core competencies.
+
+**Qualifications**
+
+* Grade 12 education preferred or equivalent as recognized by the Province of Ontario Ministry of Education
+* Post\\-Secondary Diploma in related field – Business, Supply Chain, Logistics, Inventory Management or Purchasing
+* Two years current experience in computerized supplies acquisition, distribution, inventory management within a surgical/procedural environment and strong knowledge of inventory and purchasing procedures/practices
+* Proficient with MS Office applications, enabling contract compliance analytics and reporting
+* Knowledge and experience of inventory and order management platforms (ideally Allscripts and LogiData)
+* Relevant healthcare supply chain (warehouse, distribution, inventory, purchasing and scanning)
+* Strong product knowledge in relevant departments (e.g. Cardiac, DI, Cataract)
+* Industry knowledge and experience supporting ability to actively source substitutes
+* Strong relationship management and communication skills
+* Demonstrated skills in planning, organization, analytics, along with strong time management, and problem solving skills
+* Deals effectively with work related problems, pressure, and stress in a professional and positive manner
+* Regular attendance is a requirement of this position
+* Must meet physical demands of this position
+
+**Closing Statement**
+
+***Regular and reliable attendance is an expected requirement of this position.***
+
+
+At Southlake, we are committed to fostering an inclusive and accessible environment. We are dedicated to building a workforce that reflects the diversity of the community in which we live and serve, including those with disabilities. Southlake is committed to providing accommodations in all parts of the hiring process. If you require an accommodation, we will work with you to meet your needs.
+
+
+It is the responsibility of all Southlake employees to work in a safe manner and promote health and safety in the workplace.
+
+**Primary Responsibilities**
+
+
+Overall Management of Surgical/Procedural Specialty/Non\\-stock Products  
+
+* Daily monitoring and replacement of all specialty, non\\-stock, critical items, ensuring adequate supplies are in place.
+* Collaborates with clinical teams to identify special needs and to ensure equipment/supplies are available when required.
+* Collaborates with Distribution to support replenishment of JIT and Stock items, manage back orders and provide solutions, i.e. alternative products, instruments or equipment as require.
+* Makes recommendations and collaborates with supplier to adjust quotas of consignment items as required.
+* Supports management in the evaluation of new products and equipment.
+* Monitors supply usage for department specific supplies ensuring usage aligns with contract commitments.
+* Ability to troubleshoot instrument and equipment problems and recommend alternative solutions.
+* Maintains the integrity and sterility of delicate implants, supplies and instruments during handling and distribution.
+* Verifies receipt of supplies ordered cross referencing Delivery Document to goods received
+* Tracks back orders and initiates sourcing, approval and purchasing of substitute products as required
+* Monitor non\\-stock LogiD tags and investigate delayed replenishments using LogiD application reports, Allscripts Requisitioning and Purchase Order details
+* Participates in replenishment cart optimizations as required
+* Monitors expiry dates and identifies product to be returned or used first
+* Replenishes specialty items/consignment inventory, rotating stock first in first out
+* Scans and applies RFID labels as required to inventory received daily
+* Submits eRequisitions as required for items/equipment for goods not replenished through the replenishment systems.
+* Discusses relevant problems with major suppliers through their sales representative
+* Expediting urgent orders for patients and researching alternate suppliers when back orders delay delivery
+* Support inventory counts as required by suppliers and investigate any discrepancies between supplier count and system on hand inventory
+* Conduct regularly scheduled par level reviews for specialty supplies/consignment to optimize supply and inventory levels, review results and gain consensus with clinical partners to implement changes
+* Take a leadership role in the ongoing education to frontline staff on the replenishment systems (LogiData\\-ID and CC\\-ID) and escalate to management when further support is required.
+* Ensure all processes, transactions and external business relationships are in accordance with policy, procedure and the highest of ethical standards
+* Forecasting usage trends and adjusting on hand quantities either temporarily or permanently as required
+
+
+Software application and data management
+  
+
+* Manages LogiData\\-CC database ensuring appropriate items are effectively loaded, inventory levels are identified, stocking locations are set
+* Programs LogiData system to read supplier specific barcodes for accurate scanning and tracking of specialty products
+* Ensures item information, e.g. vendor, vendor cat \\#, pricing, etc aligns with contract pricing in all systems (Allscripts, LogiData and Meditech)
+* Participates in Software updates/upgrades as required including completing testing
+* Works with suppliers to troubleshoot software and hardware issues
+
+
+Instrument/equipment repair  
+
+* Make arrangements for routine and urgent repairs, replacement and loaner arrangements
+* Performs cross\\-functional duties, as assigned or requested.
+* Performs other duties consistent with the job classification, as required.","","https://ca.indeed.com/cmp/Southlake-Health","","","","","","","","","","","",""
+"li-4207151836","linkedin","https://www.linkedin.com/jobs/view/4207151836","","Warehouse Supervisor | Seasonal Part-Time | Rogers Stadium","Oak View Group","North York, Ontario, Canada","2025-04-12","","","","","","",False,"","","","","","","https://www.linkedin.com/company/oak-view-group","","","","","","","","","","","",""
+"li-4206867849","linkedin","https://www.linkedin.com/jobs/view/4206867849","","Cashier Part Time Contract - WOODBRIDGE","The Home Depot Canada","Woodbridge, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4122695922","linkedin","https://www.linkedin.com/jobs/view/4122695922","","Warehouse Person B-1","IKO North America","Brampton, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/iko-north-america","","","","","","","","","","","",""
+"li-4206869467","linkedin","https://www.linkedin.com/jobs/view/4206869467","","Cashier Part Time Contract - WOODBRIDGE","The Home Depot Canada","Woodbridge, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206084906","linkedin","https://www.linkedin.com/jobs/view/4206084906","","Product Operations Educator | Eaton Centre, Toronto","lululemon","Toronto, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/lululemon","","","","","","","","","","","",""
+"li-4205289506","linkedin","https://www.linkedin.com/jobs/view/4205289506","","Project Administrator","Mier Human Capital","Cambridge, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/accountivity","","","","","","","","","","","",""
+"li-4206874127","linkedin","https://www.linkedin.com/jobs/view/4206874127","","Lot Associate Part Time - WOODBRIDGE","The Home Depot Canada","Woodbridge, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206051700","linkedin","https://www.linkedin.com/jobs/view/4206051700","","Financial Analyst","Techtronic Industries Canada Inc.","Toronto, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/techtronic-industries-canada","","","","","","","","","","","",""
+"li-4208266458","linkedin","https://www.linkedin.com/jobs/view/4208266458","","Internship, Technical Program Management, Cell Engineering (Fall 2025)","Tesla","Markham, Ontario, Canada","2025-04-11","","","","","","",False,"","","","","","","https://www.linkedin.com/company/tesla-motors","","","","","","","","","","","",""
+"li-4206204642","linkedin","https://www.linkedin.com/jobs/view/4206204642","","Receiving Part Time -Afternoon/Evening/Weekend (MARKHAM WEST)","The Home Depot Canada","Markham, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206204638","linkedin","https://www.linkedin.com/jobs/view/4206204638","","Receiving Part Time -Afternoon/Evening/Weekend (MARKHAM WEST)","The Home Depot Canada","Markham, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206204631","linkedin","https://www.linkedin.com/jobs/view/4206204631","","Cashier Part Time (WHITBY)","The Home Depot Canada","Whitby, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206204633","linkedin","https://www.linkedin.com/jobs/view/4206204633","","Cashier Part Time (WHITBY)","The Home Depot Canada","Whitby, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4206614169","linkedin","https://www.linkedin.com/jobs/view/4206614169","","Warehouse Associate Generalist (Part Time)","Global Industrial Company","Richmond Hill, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://www.linkedin.com/company/global-industrial-company","","","","","","","","","","","",""
+"li-4205771255","linkedin","https://www.linkedin.com/jobs/view/4205771255","","Stock Associate (5am - 10AM, PT","Under Armour","Vaughan, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://www.linkedin.com/company/under-armour","","","","","","","","","","","",""
+"li-4206102008","linkedin","https://www.linkedin.com/jobs/view/4206102008","","Quality Assurance Specialist – Fresh","Loblaw Companies Limited","Ajax, Ontario, Canada","2025-04-10","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/loblaw-companies-limited","","","","","","","","","","","",""
+"li-4208502620","linkedin","https://www.linkedin.com/jobs/view/4208502620","","Coordinator, Raw Material Inventory","Canada Goose","Toronto, Ontario, Canada","","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/canada-goose-inc","","","","","","","","","","","",""
+"li-4164568814","linkedin","https://www.linkedin.com/jobs/view/4164568814","","Overnight Freight Associate 6 Month Contract Part Time - OAKVILLE TRAFALGAR","The Home Depot Canada","Oakville, Ontario, Canada","","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-4188857002","linkedin","https://www.linkedin.com/jobs/view/4188857002","","Overnight Freight Associate 6 Month Contract Part Time - OAKVILLE TRAFALGAR","The Home Depot Canada","Oakville, Ontario, Canada","","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/the-home-depot-canada","","","","","","","","","","","",""
+"li-3656065334","linkedin","https://www.linkedin.com/jobs/view/3656065334","","AZ Driver","Labatt Breweries of Canada","Mississauga, Ontario, Canada","","","","","","","",False,"","","","","","","https://ca.linkedin.com/company/labatt","","","","","","","","","","","",""
